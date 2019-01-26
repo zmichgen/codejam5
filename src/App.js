@@ -6,32 +6,58 @@ import Data from './codejam5.json';
 import English from './england.jpg';
 import Russian from './russia.jpg';
 import Belarus from './belarus.jpg';
+import Hero from './components/hero/hero'
 
+
+const countAutors = _.keys(Data.ru.autors).length;
 
 const Main = (props) => {
   const header = _.keys(Data[props].autors)[1];
   return () => {return <h1>{header}</h1>};
 }
 const Search = (props) => {
-  const header = _.keys(Data[props].autors)[4];
-  return () => {return <h1>{header}</h1>};
+  return () => {return Hero(props)};
+}
+
+const randomKey = (toNumber) => {
+  return Math.floor(Math.random() * toNumber);
+};
+
+const setHeroKey = (key) => {
+  localStorage.setItem('myHeroKey', key);
+}
+
+const getHeroKey = (number) => {
+  const key = localStorage.getItem('myHeroKey');
+  if (!key) {
+    setHeroKey(randomKey(number));
+    return randomKey(number);
+  } else {
+    return key;
+  }
 }
 
 class App extends Component {
-
-  state = {
-    lang: 'ru'
+  constructor() {
+    super();
+    this.key = getHeroKey(countAutors);
+    this.state = {
+      lang: 'ru',
+      key: this.key
+    }
   }
 
   switchLanguage = (e) => {
     const lang = e.target.id;
-    this.setState({lang: lang});
+    if (lang) {
+      this.setState({lang: lang});
+    }    
   }
 
   render() {
     const menuItems = _.values(Data[this.state.lang].interface.mainMenu);    
     const mainPage = Main(this.state.lang);
-    const searchPage = Search(this.state.lang);
+    const searchPage = Search(this.state);
     return (
       <Router basename="/codejam5" >
         <div className="wrapper">
@@ -53,8 +79,7 @@ class App extends Component {
                   <button><img id="ru" width="30" src={Russian} alt="russian" /></button>
                   <button><img id="by" width="30" src={Belarus} alt="russian" /></button>
                   <button><img id="en" width="30" src={English}alt="russian" /></button>
-              </div> 
-              <img id='y'/>                          
+              </div>                        
             </div>
           </nav>
           <Switch>
