@@ -7,12 +7,13 @@ import English from './england.jpg';
 import Russian from './russia.jpg';
 import Belarus from './belarus.jpg';
 
+
 const Main = (props) => {
-  const header = _.keys(props)[1];
+  const header = _.keys(Data[props].autors)[1];
   return () => {return <h1>{header}</h1>};
 }
 const Search = (props) => {
-  const header = _.keys(props)[0]
+  const header = _.keys(Data[props].autors)[4];
   return () => {return <h1>{header}</h1>};
 }
 
@@ -29,8 +30,8 @@ class App extends Component {
 
   render() {
     const menuItems = _.values(Data[this.state.lang].interface.mainMenu);    
-    const mainPage = Main(Data[this.state.lang].autors);
-    const searchPage = Search(Data[this.state.lang].autors);
+    const mainPage = Main(this.state.lang);
+    const searchPage = Search(this.state.lang);
     return (
       <Router basename="/codejam5" >
         <div className="wrapper">
@@ -52,7 +53,8 @@ class App extends Component {
                   <button><img id="ru" width="30" src={Russian} alt="russian" /></button>
                   <button><img id="by" width="30" src={Belarus} alt="russian" /></button>
                   <button><img id="en" width="30" src={English}alt="russian" /></button>
-              </div>                           
+              </div> 
+              <img id='y'/>                          
             </div>
           </nav>
           <Switch>
