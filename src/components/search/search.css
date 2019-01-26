@@ -1,0 +1,13 @@
+.authors-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.author-info:hover {
+  cursor: pointer;
+}
+
+.author-foto {
+  width: 195px;
+  height: 190px;
+}
