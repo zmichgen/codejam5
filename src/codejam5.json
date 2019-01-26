@@ -156,7 +156,7 @@
           "Черный замок ольшанский, 1979г"
         ],
         "geoMark": {
-          "coordinates": [53.902286, 27.561722],
+          "coordinates": [30.417883, 54.510122],
           "iconContent": "Основное место работы",
           "ballonContent": "Большинство произведений Владимир Короткевич создал здесь"
          } 
@@ -400,7 +400,7 @@
         "Паэзія розных гадоў 1987"
       ],
       "geoMark": {
-        "coordinates": [53.902286, 27.561722],
+        "coordinates": [30.417883, 54.510122],
         "iconContent": "Асноўнае месца працы",
         "ballonContent": "Большинство произведений Уладзімір Караткевіч создал здесь"
        }
@@ -646,7 +646,7 @@
         "Black castle olshansky, 1979"
       ],
       "geoMark": {
-        "coordinates": [53.902286, 27.561722],
+        "coordinates": [30.417883, 54.510122],
         "iconContent": "Main place of work",
         "ballonContent": "Most of the works Vladimir Korotkevich created here"
        }
