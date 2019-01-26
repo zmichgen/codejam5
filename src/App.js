@@ -8,7 +8,6 @@ import Russian from './russia.jpg';
 import Belarus from './belarus.jpg';
 
 const Main = (props) => {
-  console.log(props);
   const header = _.keys(props)[1];
   return () => {return <h1>{header}</h1>};
 }
