@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Timeline, TimelineItem }  from 'vertical-timeline-component-for-react';
-import data from './author.json';
+import data from '../../data.json';
 // import korot from './korotkevich.jpg'
 
 const _ = require('lodash');
@@ -9,23 +9,29 @@ const name = "рыгор бородулин";
 const lang = 'ru';
 export default class BiographyTimeLine extends Component {
   findAuthor = (findName) => {
-    return data.filter(e => _.find(e, { name: findName }))[0];  //findName = this.props.authorName
+    return data[lang].autors[findName]
   }
 
-  createTimeLineItem = () => _.keys(this.findAuthor(name)[lang].biography).map((e, i) => {
-      return (<TimelineItem
-                key={i}
-                dateText={this.findAuthor(name)[lang].biography[e].dataTime}
-                style={{ color: '#e86971' }}
-       ><p>{this.findAuthor(name)[lang].biography[e].data}</p></TimelineItem>); // this.props.lang = lang, 
-    })
+  createTimeLineItem = () => _.keys(this.findAuthor(name).biography).map((e, i) => {
+    const dataTimeStyle = { background: '#4e362e' };
+    if ((i + 2) % 2 === 0) {
+      dataTimeStyle.background = '#f5cc5e';
+    }
+
+    return (<TimelineItem
+      key={i}
+      dateText={this.findAuthor(name).biography[e]["data-time"]}
+      style={{ color: "#e86971" }}
+      dateInnerStyle={dataTimeStyle}
+    ><p>{this.findAuthor(name).biography[e].data}</p></TimelineItem>); // this.props.lang = lang, 
+  })
 
   render() {
     return (
       <>
-      <Timeline lineColor={'#ddd'}>
-        {this.createTimeLineItem()}
-      </Timeline>
+        <Timeline lineColor={'#ddd'}>
+          {this.createTimeLineItem()}
+        </Timeline>
       </>
     )
   }
