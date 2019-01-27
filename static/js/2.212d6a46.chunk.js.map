@@ -1,0 +1,1 @@
+{"version":3,"sources":["images/portraits/kolas.jpg"],"names":["module","exports","__webpack_require__","p"],"mappings":"4EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"static/js/2.212d6a46.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/kolas.88f32fea.jpg\";"],"sourceRoot":""}
