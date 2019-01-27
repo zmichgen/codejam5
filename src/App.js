@@ -7,7 +7,7 @@ import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
 import MainPage from "./screens/main";
-import AutorPage from './screens/author/index';
+// import AutorPage from './screens/author/index';
 
 const Search = props => {
   const header = _.keys(Data[props].autors)[1];
@@ -15,6 +15,14 @@ const Search = props => {
     return <h1>{header}</h1>;
   };
 };
+
+const Autor = props => {
+  const header = _.keys(Data[props].autors)[3];
+  return () => {
+    return <h1>{header}</h1>;
+  };
+};
+
 const Main = props => {
   return () => {
     return MainPage(props);
@@ -40,6 +48,7 @@ class App extends Component {
     const menuItems = _.values(Data[this.state.lang].interface.mainMenu);
     const mainPage = Main(this.state.lang);
     const searchPage = Search(this.state.lang);
+    const autorPage = Autor(this.state.lang);
     return (
       <Router basename="/codejam5">
         <div className="wrapper">
@@ -94,7 +103,7 @@ class App extends Component {
             <Route exact path="/" component={mainPage} />
             <Route exact path="/home" component={mainPage} />
             <Route exact path="/search" component={searchPage} />
-            <Route exact path="/autor" component={<AutorPage/>} />
+            <Route exact path="/autor" component={autorPage} />
           </Switch>
         </div>
       </Router>
