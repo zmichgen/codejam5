@@ -19,7 +19,7 @@ const getDate = () => {
 };
 
 const getImage = async imageName => {
-  const imgSrc = await import(/* webpackMode: "eager" */ `../../${imageName}.jpg`);
+  const imgSrc = await import(/* webpackMode: "eager" */ `../../images/portraits/${imageName}.jpg`);
   return imgSrc.default;
 };
 
@@ -62,9 +62,9 @@ class Hero extends React.Component {
     this.lang = props.lang;
     const heroes = _.keys(Data[this.lang].autors);
     const key = getKey(heroes.length);
-    this.hero = heroes[key];
-    this.name = 'russia'
+    this.hero = heroes[key];    
     this.data = _.values(Data[this.lang].autors)[key];
+    this.name = this.data.image;
   }
   state = {
     portret: {}

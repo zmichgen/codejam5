@@ -11,7 +11,7 @@
     "autors": {
       "Иван Мележ": {
         "name": "Иван Мележ",
-      "image": "",
+      "image": "meleg",
       "years": "1921-1976",
       "birthdayPlace": "Глинище",
       "description": "Белорусский советский прозаик, драматург, публицист",
@@ -68,7 +68,7 @@
        },
       "Янка Купала": {
         "name": "Янка Купала",
-      "image": "",
+      "image": "kupala",
       "years": "1882-1942",
       "birthdayPlace": "Вязынка",
       "description": "Белорусский поэт и переводчик, драматург, публицист",
@@ -115,7 +115,7 @@
    
       "Владимир Короткевич": {
         "name": "Владимир Короткевич",
-        "image": "",
+        "image": "korotkevich",
         "years": "1930 - 1984",
         "birthdayPlace": "Oрша",
         "description": "Белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы",
@@ -163,7 +163,7 @@
        },
       "Рыгор Бородулин": { 
         "name": "Рыгор Бородулин",
-        "image": "",
+        "image": "borodulin",
         "years": "1935 - 2014",
         "birthdayPlace": "Вересовка",
         "description": "Белорусский поэт, эссеист, переводчик. Народный поэт Беларуси",
@@ -207,7 +207,7 @@
       },
       "Якуб Колас": { 
         "name": "Якуб Колас",
-      "image":"" ,
+      "image":"kolas" ,
       "years": "1882 -1956",
       "birthdayPlace": "Окинчицы",
       "description": "Настоящее имя и фамилия Константин Михайлович Мицкевич. Белорусский советский писатель, поэт и переводчик",
@@ -268,7 +268,7 @@
     "autors": {
       "Іван Мележ": { 
         "name": "Іван Мележ",
-      "image": "",
+      "image": "meleg",
       "years": "1921-1976",
       "birthdayPlace": "Глiнішча",
       "description": "Беларускі празаік, драматург, публіцыст.",
@@ -313,7 +313,7 @@
       },
       "Янка Купала": {
         "name": "Янка Купала",
-        "image":"" ,
+        "image":"kupala" ,
         "years": "1882-1942",
         "birthdayPlace": "Вязынка",
         "description": "Беларускі паэт, драматург, публіцыст, перакладчык",
@@ -359,7 +359,7 @@
       },
       "Уладзімір Караткевіч": {
         "name": "Уладзімір Караткевіч",
-      "image": "",
+      "image": "korotkevich",
       "years": "1930 - 1984",
       "birthdayPlace": "Oрша",
       "description": "Уладзі́мір Сямё́навіч Каратке́віч беларускі паэт, празаік, драматург, публіцыст, перакладчык, сцэнарыст, класік беларускай літаратуры",
@@ -407,7 +407,7 @@
        },
       "Рыгор Барадулін": {
         "name": "Рыгор Барадулін",
-      "image": "",
+      "image": "borodulin",
       "years": "1935 - 2014",
       "birthdayPlace": "Верасоўка",
       "description": "Вядомы таксама як Дзя́дзька Рыго́р — беларускі і савецкі паэт, эсэіст і перакладчык",
@@ -451,7 +451,7 @@
        },
       "Якуб Колас": { 
         "name": "Якуб Колас",
-      "image":"" ,
+      "image":"kolas" ,
       "years": "1882 -1956",
       "birthdayPlace": "Акiнчыцы",
       "description": "Настоящее имя и фамилия Константин Михайлович Мицкевич. Белорусский советский писатель, поэт и переводчик",
@@ -511,7 +511,7 @@
     "autors": {
       "Ivan Melezh": {
         "name": "Ivan Melezh",
-      "image": "",
+      "image": "meleg",
       "years": "1921-1976",
       "birthdayPlace": "Glinische",
       "description": "A Belarussian prose writer, playwright and publicistic",
@@ -557,7 +557,7 @@
     },
       "Yanka Kupala": {
         "name": "Yanka Kupala",
-      "image": "",
+      "image": "kupala",
       "years": "1882-1942",
       "birthdayPlace": "Viazynka",
       "description": "A Belarusian poet and writer. Kupala is considered one of the greatest Belarusian-language writers of the 20th century.",
@@ -605,7 +605,7 @@
     },
       "Vladimir Korotkevich": {
         "name": "Vladimir Korotkevich",
-      "image": "",
+      "image": "korotkevich",
       "years": "1930 - 1984",
       "birthdayPlace": "Orsha",
       "description": "Belarusian Soviet writer, poet, playwright, screenwriter and publicist, classic of Belarusian literature",
@@ -653,7 +653,7 @@
        },
       "Ryhor Baradulin": {
         "name": "Ryhor Baradulin",
-      "image": "",
+      "image": "borodulin",
       "years": "1935 - 2014",
       "birthdayPlace": "Verasowka",
       "description": "Belarusian poet, essayist and translator",
@@ -698,7 +698,7 @@
        },
       "Yakub Kolas": {
         "name": "Yakub Kolas",
-      "image":"" ,
+      "image":"kolas" ,
       "years": "1882 -1956",
       "birthdayPlace": "Okinchitsy",
       "description": "Present name and surname Konstantin Mikhailovich Mitskevich. Belarusian Soviet writer, poet and translator",
