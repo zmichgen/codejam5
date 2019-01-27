@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
 import BigPicture from "react-bigpicture";
-import data from "../author.json";
+import data from "../../author.json";
 
 export default class Youtube extends React.Component {
   render() {
