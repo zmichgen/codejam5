@@ -6,7 +6,7 @@ import Data from "./codejam5.json";
 import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
-import MainPage from "./screens/main";
+import MainPage from "./screens/main/main";
 // import AutorPage from './screens/author/index';
 
 const Search = props => {
