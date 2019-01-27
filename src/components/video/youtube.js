@@ -8,13 +8,18 @@ export default class Youtube extends React.Component {
     return (
       <div>
         {data.map((author, index) => {
+          let videoId = author.ru.youtube
+            .match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/)
+            .pop();
+          let tumbnail = `https://img.youtube.com/vi/${videoId}/0.jpg`;
+
           return (
             <BigPicture
               type="youtube"
               caption="Example of an optional caption."
               src={author.ru.youtube}
             >
-              <img src="https://img.youtube.com/vi/I-0ezESiCCw/0.jpg" />
+              <img src={tumbnail} alt="" />
             </BigPicture>
           );
         })}
