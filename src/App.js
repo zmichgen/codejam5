@@ -7,6 +7,7 @@ import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
 import MainPage from "./screens/main";
+import AutorPage from './screens/author/index';
 
 const Search = props => {
   const header = _.keys(Data[props].autors)[1];
@@ -70,6 +71,11 @@ class App extends Component {
                     {menuItems[1]}
                   </Link>
                 </li>
+                <li className="nav-item">
+                  <Link to={"/autor"} className="nav-link">
+                    {menuItems[3]}
+                  </Link>
+                </li>
               </ul>
               <div className="switchLang" onClick={this.switchLanguage}>
                 <button>
@@ -88,6 +94,7 @@ class App extends Component {
             <Route exact path="/" component={mainPage} />
             <Route exact path="/home" component={mainPage} />
             <Route exact path="/search" component={searchPage} />
+            <Route exact path="/autor" component={<AutorPage/>} />
           </Switch>
         </div>
       </Router>
