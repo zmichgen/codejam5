@@ -1,4 +1,38 @@
-.about {
+@font-face {
+  font-family: "Azoft";
+  src: url(./azoft-sans-bold.ttf);
+
+}
+@font-face {
+  font-family: "New";
+  src: url(./nefont.ttf);
+
+}
+
+.background {
   padding: 10px 20px;
   text-align: center;
+  padding-top: 15vmin;
+  background-image: url(./bel-mir.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  @media screen and (max-width: 640px) {
+    padding-top: 0;
+    background-image: none;
+  }
+
+  h1,
+  h2 {
+    font-family: New, Arial, Helvetica, sans-serif;
+    color: rgb(14, 7, 1); 
+    text-shadow: 5px 5px  20px rgb(255, 255, 255)
+  }
+  h1 {
+    font-size: 6vmin;
+
+  }
+  h2 {
+    font-size: 4vmin;
+
+  }
 }
