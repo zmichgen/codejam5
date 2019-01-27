@@ -6,7 +6,7 @@ import Data from "./codejam5.json";
 import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
-import MainPage from "./views/main";
+import MainPage from "./screens/main";
 
 const Search = props => {
   const header = _.keys(Data[props].autors)[1];
