@@ -10,7 +10,7 @@ class Main extends React.Component {
       <div>
         <div className="portal">
           <Hero lang={this.props.lang} authorName={this.props.authorName}/>
-          <InfoBlock lang={this.props}/>
+          <InfoBlock lang={this.props.lang}/>
         </div>
           <div className="dreamTeam">  
         </div>

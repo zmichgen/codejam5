@@ -1,9 +1,10 @@
 .hero {
-  max-width: 250px;
+  max-width: 400px;
   box-shadow: 1px 2px 10px gray;
   padding: 10px;
 
   img {
-    max-width: 230px;
+    display: block;
+    max-width: 380px;
   }
 }

@@ -2,14 +2,8 @@ import React from "react";
 import Data from "../../codejam5.json";
 import "./hero.scss";
 
-const title = {
-  ru: "ПИСАТЕЛЬ ДНЯ",
-  by: "ПIСМЕННIК ДНЯ",
-  en: "WRITER OF THE DAY"
-};
-
 const getImage = async imageName => {
-  const imgSrc = await import(/* webpackMode: "eager" */ `../../images/portraits/${imageName}.jpg`);
+  const imgSrc = await import( `../../images/portraits/${imageName}.jpg`);
   return imgSrc.default;
 };
 
@@ -37,7 +31,6 @@ class Hero extends React.Component {
     const { portret } = this.state;
     return (
       <div className="hero">
-        <h3>{title[this.lang]}</h3>
         <div>
           <img src={portret} alt="portret" />
         </div>
