@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { YMaps, Map, Placemark } from 'react-yandex-maps';
+import data from '../../data.json';
 
 // инфу о точке пробрасывайте через newInfo
 // например <YandexMap newInfo={geoMark}/> 
@@ -13,7 +14,7 @@ class YandexMap extends Component {
       <YMaps>
         <Map
           defaultState={{
-            center: this.props.newInfo.coordinates,
+            center: data[this.props.lang].autors[this.props.autorName].geoMark.coordinates,
             zoom: 11,
             controls: ['zoomControl', 'fullscreenControl']
           }}
@@ -23,10 +24,10 @@ class YandexMap extends Component {
         >
         <Placemark
           modules={['geoObject.addon.balloon']}
-          defaultGeometry={this.props.newInfo.coordinates}
+          defaultGeometry={data[this.props.lang].autors[this.props.autorName].geoMark.coordinates}
           properties={{
-            iconContent: this.props.newInfo.iconContent,
-            balloonContentBody: this.props.newInfo.balloonContent
+            iconContent: data[this.props.lang].autors[this.props.autorName].geoMark.iconContent,
+            balloonContentBody: data[this.props.lang].autors[this.props.autorName].geoMark.balloonContent
           }}
           options={{
             preset: 'islands#blackStretchyIcon'
