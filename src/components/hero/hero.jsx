@@ -3,7 +3,7 @@ import Data from "../../codejam5.json";
 import "./hero.scss";
 
 const getImage = async imageName => {
-  const imgSrc = await import( `../../images/portraits/${imageName}.jpg`);
+  const imgSrc = await import(`../../images/portraits/${imageName}.jpg`);
   return imgSrc.default;
 };
 
@@ -11,7 +11,7 @@ class Hero extends React.Component {
   constructor(props) {
     super();
     this.lang = props.lang;
-    this.hero= props.authorName;  
+    this.hero = props.authorName;
     this.data = Data[this.lang].autors[props.authorName];
     this.name = this.data.image;
   }

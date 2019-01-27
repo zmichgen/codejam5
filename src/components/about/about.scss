@@ -1,12 +1,7 @@
-@font-face {
-  font-family: "Azoft";
-  src: url(./azoft-sans-bold.ttf);
 
-}
 @font-face {
   font-family: "New";
   src: url(./nefont.ttf);
-
 }
 
 .background {
@@ -24,15 +19,13 @@
   h1,
   h2 {
     font-family: New, Arial, Helvetica, sans-serif;
-    color: rgb(14, 7, 1); 
-    text-shadow: 5px 5px  20px rgb(255, 255, 255)
+    color: rgb(14, 7, 1);
+    text-shadow: 5px 5px 20px rgb(255, 255, 255);
   }
   h1 {
     font-size: 6vmin;
-
   }
   h2 {
     font-size: 4vmin;
-
   }
 }

@@ -1,8 +1,6 @@
 import React from "react";
 import "./about.scss";
-import Back from "./bel-mir.jpg";
 
-// data about project
 const screenData = {
   ru: {
     title: "Прикоснитесь к прекрасному",
