@@ -2,7 +2,7 @@
   {
     "ru": {
       "name": "Иван Мележ",
-      "image": ,
+      "image": "",
       "years": "1921-1976",
       "birthdayPlace": "Глинище",
       "description": "Белорусский советский прозаик, драматург, публицист",
@@ -52,12 +52,12 @@
         "Жизненные проблемы, 1975"
       ],
       "coordinates": {
-        "workPlace": [53.902286, 27.561722]
+        "coordinates": [53.902286, 27.561722]
       }
     },
     "by": {
       "name": "Іван Мележ",
-      "image": ,
+      "image": "",
       "years": "1921-1976",
       "birthdayPlace": "Глiнішча",
       "description": "Беларускі празаік, драматург, публіцыст.",
@@ -95,12 +95,12 @@
         "Жыццёвыя клопаты, 1975"
       ],
       "coordinates": {
-        "workPlace": [53.902286, 27.561722]
+        "coordinates": [53.902286, 27.561722]
       }
     },
     "en": {
       "name": "Ivan Melezh",
-      "image": ,
+      "image": "",
       "years": "1921-1976",
       "birthdayPlace": "Glinische",
       "description": "A Belarussian prose writer, playwright and publicistic",
@@ -138,14 +138,14 @@
         "Жыццёвыя клопаты, 1975"
       ],
       "coordinates": {
-        "workPlace": [53.902286, 27.561722]
+        "coordinates": [53.902286, 27.561722]
       }
     }
   },
   {
     "ru": {
       "name": "Янка Купала",
-      "image": ,
+      "image": "",
       "years": "1882-1942",
       "birthdayPlace": "Вязынка",
       "description": "Белорусский поэт и переводчик, драматург, публицист",
@@ -184,12 +184,12 @@
         "Тарасова доля, 1939"
       ],
       "coordinates": {
-        "workPlace": [53.902286, 27.561722]
+        "coordinates": [53.902286, 27.561722]
       }
     },
     "by": {
       "name": "Янка Купала",
-      "image": ,
+      "image": "",
       "years": "1882-1942",
       "birthdayPlace": "Вязынка",
       "description": "Беларускі паэт, драматург, публіцыст, перакладчык",
@@ -228,12 +228,12 @@
         "Тарасова доля, 1939"
       ],
       "coordinates": {
-        "workPlace": [53.902286, 27.561722]
+        "coordinates": [53.902286, 27.561722]
       }
     },
     "en": {
       "name": "Yanka Kupala",
-      "image": ,
+      "image": "",
       "years": "1882-1942",
       "birthdayPlace": "Viazynka",
       "description": "A Belarusian poet and writer. Kupala is considered one of the greatest Belarusian-language writers of the 20th century.",
@@ -270,10 +270,10 @@
         "The Payment of Love, 1908",
         "The Minstrel, 1910",
         "On Paths of Life, 1913",
-        "Tuteishiya (The Locals), 1922 " 
+        "Tuteishiya (The Locals), 1922 "
       ],
       "coordinates": {
-        "workPlace": [53.902286, 27.561722]
+        "coordinates": [53.902286, 27.561722]
       }
     }
   },
@@ -451,7 +451,7 @@
         "Ушачский словазбор Рыгора Бородулина, 2013"
       ],
       "coordinates": {
-        "birthdayPlace": [53.902496, 27.561481]
+        "coordinates": [53.902496, 27.561481]
       }
     },
     "by": {
@@ -493,7 +493,7 @@
         "Вушацкі словазбор Рыгора Барадуліна, 2013"
       ],
       "coordinates": {
-        "birthdayPlace": [53.902496, 27.561481]
+        "coordinates": [53.902496, 27.561481]
       }
     },
     "en": {
@@ -535,7 +535,7 @@
         "Ushachskiy slovazbor Rygora Borodulina, 2013"
       ],
       "coordinates": {
-        "birthdayPlace": [53.902496, 27.561481]
+        "coordinates": [53.902496, 27.561481]
       }
     }
   }
