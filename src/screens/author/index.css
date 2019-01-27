@@ -1,0 +1,9 @@
+.about-author {
+  display: flex;
+}
+
+.about-author-text {
+  width: 500px;
+  text-align: justify;
+  margin: 0 auto;
+}
