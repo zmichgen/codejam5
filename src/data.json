@@ -80,35 +80,35 @@
         "about": "Белорусский писатель, народный писатель БССР (1972). Член КПСС с 1940. Родился в крестьянской семье. Участник Великой Отечественной войны; в 1942 был тяжело ранен. Окончил филологический факультет Белорусского государственного университета (1945). Работал в редакции журнала «Полымя», преподавал белорусскую литературу в БГУ. Романы трилогии (Ленинская премия, 1972) написаны с большим эпическим мастерством и глубоким психологизмом. Выступал также как автор драматических и литературно-критических произведений. Член Всемирного Совета Мира (1970). Заместитель председателя правления СП Белоруссии (1966). Награжден 4 орденами, а также медалями.",
         "biography": {
           "firstLine": {
-            "data-time": "1921",
+            "dataTime": "1921",
             "data": "Иван Мележ родился 8 февраля 1921 года в крестьянской семье: отец — Павел Фёдорович, мать — Мария Денисовна. "
           },
           "secondLine": {
-            "data-time": "1938",
+            "dataTime": "1938",
             "data": "В 1938 году с отличием окончил школу в Хойниках, работал в Хойникском райкоме комсомола. "
           },
           "thirdLine": {
-            "data-time": "1939",
+            "dataTime": "1939",
             "data": "В 1939 году поступил в Московский институт философии, литературы и истории, на первом курсе был призван в Советскую армию.  "
           },
           "fourthLine": {
-            "data-time": "1940-1941",
+            "dataTime": "1940-1941",
             "data": "Летом 1940 года принимал участие в присоединении Бессарабии и Буковины. Во время Великой Отечественной войны воевал под Николаевом, Лозовой, Ростовом-на-Дону, в 1941 году был ранен."
           },
           "fifthLine": {
-            "data-time": "1942",
+            "dataTime": "1942",
             "data": "В 1942 окончил курсы политработников и был откомандирован в 51-ю стрелковую дивизию сотрудником газеты."
           },
           "sixthLine": {
-            "data-time": "1945",
+            "dataTime": "1945",
             "data": "В 1945 году Иван Мележ заочно окончил филологический факультет БГУ, поступил в аспирантуру. Одновременно с учёбой работал в редакции журнала «Полымя». После окончания аспирантуры работал в БГУ старшим преподавателем белорусской литературы, а также в редакции литературного журнала «Полымя», находился в аппарате ЦК КПБ.  "
           },
           "seventhLine": {
-            "data-time": "1966-1974",
+            "dataTime": "1966-1974",
             "data": "С 1966 года секретарь, в 1971—1974 годах заместитель председателя правления Союза писателей Белорусской ССР. Депутат Верховного Совета БССР (1967—1976). Был председателем правления Белорусского отделения общества «СССР — Франция», председателем Белорусского комитета защиты мира, членом Всемирного совета мира"
           },
           "eighthLine": {
-            "data-time": "1976",
+            "dataTime": "1976",
             "data": "9 августа 1976 Иван Малеж умер от сердечного приступа. Похоронен на Восточном кладбище Минска."
           }
         },
@@ -140,23 +140,23 @@
         "about": "Классик белорусской литературы. Народный поэт БССР (1925). Академик АН БССР (1928) и АН УССР (1929). Лауреат Сталинской премии первой степени (1941).",
         "biography": {
           "firstLine": {
-            "data-time": "1882",
+            "dataTime": "1882",
             "data": "Родился Янка Купала (Иван Луцевич) 25 июня (7 июля) 1882 года в фольварке Вязанка Вилейского уезда (теперь – Молодечненский район) в семье арендатора. Закончил Белорусское народное училище. После смерти отца в 1902 году занимался хозяйством, был учителем и писарем, приказчиком, практикантом и даже помощником винокура на частной пивоварне… Все это позволило ему изучить жизнь и обычаи земляков, народное творчество и фольклор."
           },
           "secondLine": {
-            "data-time": "1908-1913",
+            "dataTime": "1908-1913",
             "data": "К 26 годам среди его творческих наработок уже были первые стихи. На протяжении 1908–1913 годов один за другим в Петербургском издательстве «Загляне сонца і ў наша ваконца» выходят его поэтические сборники: «Жалейка», «Гусляр», «Шляхам жыцця». Параллельно Янка Купала работает в «Нашей ниве» – первой белорусской национальной еженедельной газете, где печатает стихи и заметки, критические статьи и передовицы. В 1914 году основатели газеты Александр Власов и братья Иван и Антон Луцкевичи предложили Янке Купале должность главного редактора, и он с охотой согласился, отдав этой работе два года. К этому времени им уже были созданы произведения, которые станут бессмертными: поэмы «Адвечная песня» и «Сон на кургане», пьеса «Паўлінка»."
           },
           "thirdLine": {
-            "data-time": "1919",
+            "dataTime": "1919",
             "data": "В 1919 году он переезжает в Минск, и здесь из-под его пера выходят такие произведения, как «Раскіданае гняздо» и «Прымакі», «Магіла льва» и «Курган». Была среди этих произведений и «Тутэйшыя» – пьеса, которая принесет Янке Купале честь и славу, правда, через десятилетия. Он тонко и точно чувствовал глубинную сущность перемен в обществе и национальном сознании. Именно отражение этих перемен, показ процесса пробуждения белорусского народа и привели к тому, что трагикомедия «Тутэйшыя» почти 60 лет была под запретом для постановки и опубликования."
           },
           "fourthLine": {
-            "data-time": "1919-1930",
+            "dataTime": "1919-1930",
             "data": "Жизнь поэта была наполнена не только творчеством, но и активной общественно-политической деятельностью, стычками с «сильными мира сего». Являясь кандидатом в члены и членом Центрального исполнительного комитета БССР, депутатом Верховного Совета республики, академиком Академии наук Беларуси и Украины, будучи награжден званием народного поэта БССР, тем не менее он всегда был «под прицелом» ОГПУ (потом – НКВД). Его пробовали склонить к сотрудничеству, заставить согласиться с ролью руководителя мифического Союза освобождения Беларуси, который якобы существовал в республике. В 1930 году Янка Купала предпринял попытку самоубийства, однако жена спасла его от гибели."
           },
           "fifthLine": {
-            "data-time": "1942",
+            "dataTime": "1942",
             "data": "28 июня 1942 года, за несколько дней до своего 60-летия, поэт трагически погиб в Москве. Обстоятельства этой трагедии не выяснены до сих пор. В 1962 году урна с прахом белорусского классика перевезена в Минск и торжественно перезахоронена на Военном кладбище. "
           }
         },
@@ -287,23 +287,23 @@
         "about": "Якуб Колас внес значительный вклад в национальную и мировую литературу. Его произведения переведены более чем на 40 языков мира. Наиболее важными его достижениями являются: расширение жанровых возможностей   белорусской литературы, обогащение национальной  поэзии философской и пейзажной лирикой, сочетание лирики и эпоса, закладывание  основ белорусского романа и белорусской детской литературы, становление норм белорусского литературного языка",
         "biography": {
           "firstLine": {
-            "data-time": "1882",
+            "dataTime": "1882",
             "data": "Родился 22 октября (3 ноября) 1882 года в деревне Акинчицы (теперь территория города Столбцы Столбцовского района Минской области Белоруссии), в семье лесника Михаила (Михася) Мицкевича"
           },
           "secondLine": {
-            "data-time": "1902-1914",
+            "dataTime": "1902-1914",
             "data": "Окончил народную школу, в 1902 году — Несвижскую учительскую семинарию. Работал учителем на Пинщине (1902—1906). В 1906 году первая публикация — стихотворение «Край родимый» в белорусской газете «Наша доля». За участие в организации нелегального учительского съезда был приговорён к заключению, которое отбывал в минской тюрьме (1908—1911). В 1912—1914 годах учительствовал в Пинске, здесь у него родился его старший сын Даниил, который впоследствии стал создателем и первым директором музея своего отца."
           },
           "thirdLine": {
-            "data-time": "1915-1918",
+            "dataTime": "1915-1918",
             "data": "В 1915 году эвакуировался вместе с семьёй в Подмосковье, работал учителем в Дмитровском уезде. В этом же году мобилизован в армию. Окончил Александровское военное училище Москва, 1916 и служил в запасном полку в Перми. В это время его семья переехала в Обоянь (Курская губерния). В звании подпоручика летом 1917 года был отправлен на Румынский фронт"
           },
           "fourthLine": {
-            "data-time": "1921-1956",
+            "dataTime": "1921-1956",
             "data": "В мае 1921 года переехал в Минск. В дальнейшем занимался творческой и научной деятельностью. Академик (1928), с 1929 года — вице-президент Академии наук БССР, депутат ВС БССР (1938—1956). В годы Великой Отечественной войны в эвакуации в Подмосковье, Ташкенте, Москве. В 1944 году вернулся в Минск.Депутат ВС СССР (1946—1956), председатель Белорусского республиканского комитета защиты мира. Один из редакторов академического «Русско-белорусского словаря» (1953)."
           },
           "fifthLine": {
-            "data-time": "1956",
+            "dataTime": "1956",
             "data": "В конце жизни много и часто болел, в частности, перенёс 26 воспалений легких. Якуб Колас скоропостижно скончался 13 августа 1956 года. Похоронен на Военном кладбище в Минске."
           }
         },
@@ -347,23 +347,23 @@
         "about": "Нарадзiуся 8 лютага 1921, в. Глінішча, Хойніцкі раён, Гомельская вобласць — 9 жніўня 1976, Мінск) — беларускі празаік, драматург, публіцыст. Народны пісьменнік Беларусі (1972). Лаўрэат Ленінскай прэміі (1972, за раман «Людзі на балоце» і «Подых навальніцы»), Дзяржаўнай прэміі імя Якуба Коласа (1976, за зборнік «Жыццёвыя клопаты»), Літаратурнай прэміі імя Якуба Коласа (1962, за раман «Людзі на балоце»).",
         "biography": {
           "firstLine": {
-            "data-time": "1921-1938",
+            "dataTime": "1921-1938",
             "data": "Нарадзіўся ў сялянскай сям’і: бацька — Павел Фёдаравіч, маці — Марыя Дзянісаўна. Скончыў сямігодку ў Алексічах, дзесяцігодку (СШ № 1) у Хойніках (1938), працаваў у Хойніцкім райкаме камсамола."
           },
           "secondLine": {
-            "data-time": "1939",
+            "dataTime": "1939",
             "data": "У 1939 паступіў у Маскоўскі інстытут гісторыі, філасофіі і літаратуры і з 1-га курса быў прызваны ў Чырвоную Армію."
           },
           "thirdLine": {
-            "data-time": "1940",
+            "dataTime": "1940",
             "data": "Летам 1940 удзельнічаў у далучэнні Паўночнай Букавіны да СССР. З першых дзён Вялікай Айчыннай вайны на фронце — на Збручы, пад Уманню, Нікалаевам, Сінелькавам, Растовам-на-Доне, Лазавой."
           },
           "fourthLine": {
-            "data-time": "1942",
+            "dataTime": "1942",
             "data": "У чэрвені 1942 пад Растовам цяжка паранены і пасля лячэння ў тбіліскім шпіталі адпраўлены ў тыл. Жыў у Бугуруслане, потым выкладаў ваенную падрыхтоўку ў Малдаўскім педагагічным інстытуце, а з 1943 — у БДУ, які знаходзіўся тады на станцыі Сходня ў Падмаскоўі, дзе вучыўся спачатку завочна на філалагічным факультэце, а затым перайшоў на стацыянар (скончыў у 1945 ужо ў Мінску). Пасля вучыўся ў аспірантуры, выкладаў беларускую літаратуру ва ўніверсітэце, працаваў у рэдакцыі часопіса «Полымя», у апараце ЦК КПБ. Член Саюза пісьменнікаў СССР з 1945, з 1966 — сакратар, а ў 1971—1974 — намеснік старшыні праўлення СП БССР."
           },
           "fifthLine": {
-            "data-time": "1967-1976",
+            "dataTime": "1967-1976",
             "data": "Выбіраўся дэпутатам ВС БССР (1967—1976). Іван Мележ быў старшынём праўлення Беларускага аддзялення таварыства «СССР — Францыя», старшынём Беларускага камітэта абароны Міру, членам Сусветнага Савета Міру."
           }
         },
@@ -394,23 +394,23 @@
         "about": "Класік беларускай літаратуры, адзін з заснавальнікаў новай беларускай літаратуры і літаратурнай мовы. Народны паэт Беларусі (1925). Акадэмік АН БССР (1928), АН УССР (1929). Лаўрэат Дзяржаўнай прэміі СССР (1941) за зборнік «Ад сэрца».",
         "biography": {
           "firstLine": {
-            "data-time": "1882",
+            "dataTime": "1882",
             "data": "Нарадзіўся Янка Купала (Іван Луцэвіч) 25 чэрвеня (7 ліпеня) 1882 года ў фальварку Вязанка Вілейскага павета (цяпер - Маладзечанскі раён) у сям'і арандатара. Скончыў Беларускае народнае вучылішча. Пасля смерці бацькі ў 1902 годзе займаўся гаспадаркай, быў настаўнікам і пісарам, прыказчыкам, практыкантам і нават памочнікам вінакура на прыватнай піваварні ... Усё гэта дазволіла яму вывучыць жыццё і звычаі землякоў, народная творчасць і фальклор."
           },
           "secondLine": {
-            "data-time": "1908-1913",
+            "dataTime": "1908-1913",
             "data": "Да 26 гадоў сярод яго творчых напрацовак ўжо былі першыя вершы. На працягу 1908-1913 гадоў адзін за іншым у Пецярбургскім выдавецтве «Загляне сонца І Ў наша ваконца» выходзяць яго паэтычныя зборнікі: «Жалейка», «Гусляр», «Шляхам жыцця». Паралельна Янка Купала працуе ў «Нашай ніве» - першай беларускай нацыянальнай штотыднёвай газеце, дзе друкуе вершы і нататкі, крытычныя артыкулы і перадавіцы. У 1914 году заснавальнікі газеты Аляксандр Уласаў і браты Іван і Антон Луцкевічы прапанавалі Янку Купалу пасаду галоўнага рэдактара, і ён з ахвотай згадзіўся, аддаўшы гэтай працы два гады. Да гэтага часу ім ужо былі створаны творы, якія стануць несмяротнымі: паэмы «Адвечная песня» і «Сон на кургане», п'еса «Паўлінка»."
           },
           "thirdLine": {
-            "data-time": "1919",
+            "dataTime": "1919",
             "data": "У 1919 годзе ён пераязджае ў Менск, і тут з-пад яго пяра выходзяць такія творы, як «Раскіданае гняздо» і «Прымакі», «Магіла льва» і «Курган». Была сярод гэтых твораў і «Тутэйшыя» - п'еса, якая прынясе Янку Купалу гонар і славу, праўда, праз дзесяцігоддзі. Ён тонка і дакладна адчуваў глыбінную сутнасць перамен у грамадстве і нацыянальнай свядомасці. Менавіта адлюстраванне гэтых зьменаў, паказ працэсу абуджэння беларускага народа і прывялі да таго, што трагікамедыя «Тутэйшыя» амаль 60 гадоў была пад забаронай для пастаноўкі і апублікавання."
           },
           "fourthLine": {
-            "data-time": "1919-1930",
+            "dataTime": "1919-1930",
             "data": "Жыццё паэта была напоўнена не толькі творчасцю, але і актыўнай грамадска-палітычнай дзейнасцю, сутычкамі з «моцнымі гэтага свету». З'яўляючыся кандыдатам у члены і членам Цэнтральнага выканаўчага камітэта БССР, дэпутатам Вярхоўнага Савета рэспублікі, акадэмікам Акадэміі навук Беларусі і Украіны, быўшы узнагароджаны званнем народнага паэта БССР, тым не менш ён заўсёды быў «пад прыцэлам» ОГПУ (потым - НКВД). Яго спрабавалі схіліць да супрацоўніцтва, прымусіць пагадзіцца з роляй кіраўніка міфічнага Саюза вызвалення Беларусі, які нібыта існаваў у рэспубліцы. У 1930 годзе Янка Купала зрабіў спробу самагубства, аднак жонка выратавала яго ад пагібелі."
           },
           "fifthLine": {
-            "data-time": "1942",
+            "dataTime": "1942",
             "data": "28 чэрвеня 1942 г., за некалькі дзён да свайго 60-годдзя, паэт трагічна загінуў у Маскве. Абставіны гэтай трагедыі не высветлены да гэтага часу. У 1962 году урна з прахам беларускага класіка перавезена ў Мінск і ўрачыста перапахаваная на Вайсковых могілках."
           }
         },
@@ -538,23 +538,23 @@
         "about": "Якуб Колас унёс значны ўклад у нацыянальную і сусветную літаратуру. Яго творы перакладзены больш чым на 40 моў свету. Найбольш важнымі яго дасягненнямі з'яўляюцца: пашырэнне жанравых магчымасцяў беларускай літаратуры, ўзбагачэнне нацыянальнай паэзіі філасофскай і пейзажнай лірыкай, спалучэнне лірыкі і эпасу, закладанне асноў беларускага рамана і беларускай дзіцячай літаратуры, станаўленне норм беларускай літаратурнай мовы",
         "biography": {
           "firstLine": {
-            "data-time": "1882",
+            "dataTime": "1882",
             "data": "Нарадзіўся 22 кастрычніка (3 лістапада) 1882 года ў вёсцы Акінчыцы (цяпер тэрыторыя горада Стоўбцы Стаўбцоўскага раёна Мінскай вобласці Беларусі), у сям'і лесніка Міхаіла (Міхася) Міцкевіча "
           },
           "secondLine": {
-            "data-time": "1902-1914",
+            "dataTime": "1902-1914",
             "data": "Скончыў народную школу, у 1902 году - Нясвіжскую настаўніцкую семінарыю. Працаваў настаўнікам на Піншчыне (1902-1906). У 1906 году першая публікацыя - верш« Край родны »у беларускай газеце« Наша доля ». За ўдзел у арганізацыі нелегальнага настаўніцкага з'езда быў прысуджаны да зняволення, якое адбываў у менскай турме (1908-1911). у 1912-1914 гадах настаўнічаў у Пінску, тут у яго нарадзіўся яго старэйшы сын Данііл, які пасля стаў стваральнікам і першым дырэктарам музея свайго бацькі"
           },
           "thirdLine": {
-            "data-time": "1915-1918",
+            "dataTime": "1915-1918",
             "data": "У 1915 годзе эвакуіраваўся разам з сям'ёй у Падмаскоўі, працаваў настаўнікам у Дзмітраўскім павеце. У гэтым жа годзе мабілізаваны ў войска. Скончыў Аляксандраўскае ваеннае вучылішча Масква, 1916 і служыў у запасным палку ў Пермі. У гэты час яго сям'я пераехала ў Абаянь (Курская губерня). У званні падпаручніка ўлетку 1917 года быў адпраўлены на Румынскі фронт"
           },
           "fourthLine": {
-            "data-time": "1921-1956",
+            "dataTime": "1921-1956",
             "data": "У траўні 1921 года пераехаў у Мінск. У далейшым займаўся творчай і навуковай дзейнасцю. Акадэмік (1928), з 1929 году - віцэ-прэзідэнт Акадэміі навук БССР, дэпутат ВС БССР (1938-1956). У гады Вялікай Айчыннай вайны ў эвакуацыі ў Падмаскоўі, Ташкенце, Маскве. у 1944 годзе вярнуўся ў Минск.Депутат ВС СССР (1946-1956), старшыня беларускага рэспубліканскага камітэта абароны міру. Адзін з рэдактараў акадэмічнага «Руска-беларускага слоўніка» (1953)"
           },
           "fifthLine": {
-            "data-time": "1956",
+            "dataTime": "1956",
             "data": "У канцы жыцця шмат і часта хварэў, у прыватнасці, перанёс 26 запаленняў лёгкіх. Якуб Колас раптоўна памёр 13 жніўня 1956 году. Пахаваны на Вайсковых могілках у Мінску"
           }
         },
@@ -598,23 +598,23 @@
         "about": "Was born into a peasant family in the village of Hlinischy, Homel region, on February 8, 1921. In 1939 he began his studies at the Moscow Institute of History, Philosophy and Literature, and during his first year he was called up to the Army. From the very outset of the WWII he was at the front. After being hospitalised for a serious wound, he was sent back to the rear. In 1945 he graduated from the philological faculty of the Belarusian State University in Minsk. He subsequently taught in the university and worked on the journal Polymia; for many years he headed the Belarusian Writers' Union and was chairman of the Belarusian branch of the USSR-France Society.  His poetry was first published in 1939, and his prose in 1943. He is the author of the well-known novels The Minsk Line of Advance, People on the Marsh, The Storm's Breath and Snowstorm in December. The last three novels comprise an epic trilogy entitled The Palesse Chronicle, which portrays the life of a Palessian village and their release became a notable event in the history of Belarusian literature. He is also the author of many collections of novellas and short stories.  Melezh was a 'People's Writer' (1972), Lenin Literary Prize winner (1972), a National Literary Prize winner (1976) and Yakub Kolas Literary Prize winner (1962).",
         "biography": {
           "firstLine": {
-            "data-time": "1939",
+            "dataTime": "1939",
             "data": "He was born to a peasant family. In 1939, he entered the Moscow Institute of History, Philosophy and Literature, but was there for only a year when he was drafted into the Red Army and served on the front in the Odessa and Rostov-on-Don areas. "
           },
           "secondLine": {
-            "data-time": "1942",
+            "dataTime": "1942",
             "data": "He was seriously injured in 1942 and was moved to the rear following his recovery. Initially, he lived in Buguruslan, then studied at Baku State University"
           },
           "thirdLine": {
-            "data-time": "1945",
+            "dataTime": "1945",
             "data": "He later taught Belarusian literature at Belarusan State University in Minsk. From 1945, he was a member of the Union of Soviet Writers, serving as Secretary after 1966 and Deputy Chairman from 1971 to 1974."
           },
           "fourthLine": {
-            "data-time": "1967-1976",
+            "dataTime": "1967-1976",
             "data": "From 1967 to 1976, he was a Deputy to the Supreme Soviet. He was designated a People's Writer of the Belarusian SSR in 1972 and was awarded numerous prizes, including the Lenin prize for his novels People of the Marsh («Людзі на балоце») and The Storm's Breath («Подых навальніцы»).  The central place in Melezh's work is made up by the novels of the Polesye Chronicle («Палеская хроніка»): People of the Marsh, The Storm's Breath and Snowstorm in December («Завеі, снежань»). These novels portray the life in his homeland in the 1920s and 1930s: the establishment of socialism, forced collectivization, and dekulakization. Melezh attempted to depict the history of this era truthfully, within the constraints imposed by the Soviet regime."
           },
           "fifthLine": {
-            "data-time": "1976",
+            "dataTime": "1976",
             "data": "Passed away"
           }
         },
@@ -645,27 +645,27 @@
         "about": "Yanka KUPALA, the classic writer of Belarusian and world literature, one of the founders of modern Belarusian literature and literary Belarusian language, People's Poet of Belarus, the spiritual and moral leader of national rebirth in Belarus. A poet, playwright, publicist, translator, and public figure.",
         "biography": {
           "firstLine": {
-            "data-time": "1882",
+            "dataTime": "1882",
             "data": "Kupala was born on July 7, 1882 in Viazynka, a folwark settlement near Maladzyechna. His family was noble, although both of Kupala's parents were employed as tenant farmers at the folwark. Kupala was thus essentially born into a landless peasant class. Kupala received a traditional Belarusian education, completing his studies in 1898. Following the death of his father in 1902, Kupala worked a variety of short-term jobs, including as a tutor, a shop assistant, and a record keeper."
           },
           "secondLine": {
-            "data-time": "1903-1907",
+            "dataTime": "1903-1907",
             "data": "Kupala's first serious literary attempt was Ziarno, a Polish-language sentimental poem which he completed around 1903–1904 under the pseudonym «K-a». His first Belarusian-language work («Мая доля») was dated July 15, 1904. Kupala's first published poem, «Мужык» («Peasant»), was published approximately a year later, appearing in Belarusian in the Russophone Belarusian newspaper Severo-Zapadnyi Krai (Northwestern Krai) on May 11, 1905. A number of subsequent poems by Kupala appeared in the Belarusian-language newspaper Nasha Niva from 1906 to 1907."
           },
           "thirdLine": {
-            "data-time": "1908",
+            "dataTime": "1908",
             "data": "Kupala moved to Vilnius in 1908, where he continued with his career as a poet. The same year the first published collection of his poems, Жалейка (The Little Flute) brought on the ire of the czarist government, which ordered the book confiscated as an anti-government publication. The order for Kupala's arrest was revoked in 1909, but a second printing was again confiscated, this time by the local authorities in Vilnius. Kupala ceased working for the Nasha Niva in order to avoid ruining the reputation of the newspaper."
           },
           "fourthLine": {
-            "data-time": "1909-1910",
+            "dataTime": "1909-1910",
             "data": "Kupala left for Saint Petersburg in 1909. The subsequent year saw the publication of several works, including the poem Адвечная песьня (Eternal Song), which appeared as a book in St. Petersburg in July 1910. Сон на кургане (Dream on a Barrow)– completed in August 1910 –symbolised the poor state of Kupala's Belarusian homeland. Kupala left St. Petersburg and returned to Vilnius in 1913. Among those influencing Kupala in the 1910s was Maxim Gorky."
           },
           "fifthLine": {
-            "data-time": "1917-1930",
+            "dataTime": "1917-1930",
             "data": "Kupala's writing changed to an optimistic tone following the Great October Revolution of 1917. Among Kupala's numerous translations into the Belarusian language were the internationalist-Marxist anthem The Internationale and an ancient epic poem The Tale of Igor's Campaign (translated in 1921). Nevertheless, Kupala maintained his connections with the anti-Soviet oriented nationalist emigres of the Belarusian People's Republic, who exhorted that he join them in exile in Czechoslovakia during a trip abroad in 1927. At home, the newly established authorities considered him with some distrust–at times, criticism of Kupala in the press mounted insofar as Kupala's activities were regarded as too oriented around nationalism. This period stopped once Kupala printed a public letter of apology in the 1930s."
           },
           "sixthLine": {
-            "data-time": "1941-1942",
+            "dataTime": "1941-1942",
             "data": "Kupala was awarded the Order of Lenin in 1941 for the poetry collection Ад сэрца (From the Heart). With the Occupation of Belarus by Nazi Germany in 1941, because of being very ill he moved to Moscow and then to Tatarstan.[citation needed] Even from there he wrote poems supporting the Belarusian partisans fighting against Nazi Germany. He died in Moscow in 1942, aged 59, having fallen down the stairwell in Hotel Moskva."
           }
         },
@@ -790,23 +790,23 @@
         "about": "Yakub Kolas made a significant contribution to national and world literature. His works have been translated into more than 40 languages of the world. His most important achievements are: expanding the genre capabilities of Belarusian literature, enriching national poetry with philosophical and landscape lyrics, combining lyrics and epics, laying the foundations of the Belarusian novel and Belarusian children's literature, establishing the norms of the Belarusian literary language",
         "biography": {
           "firstLine": {
-            "data-time": "1882",
+            "dataTime": "1882",
             "data": "He was born on October 22 (November 3), 1882 in the village of Akinchitsy (now the territory of the city of Stolbtsy, Stolbtsy district, Minsk region, Belarus), in the family of forester Mikhail (Mikhas) Mitskevich"
           },
           "secondLine": {
-            "data-time": "1902-1914",
+            "dataTime": "1902-1914",
             "data": "He graduated from the public school, in 1902 - Nesvizh teacher's seminary. He worked as a teacher in Pinchine (1902-1906). In 1906, the first publication was the poem “The Land of the Motherland” in the Belarusian newspaper Our Share. For participation in organizing an illegal teacher's congress, he was sentenced to imprisonment, who was serving time in a Minsk prison (1908–1911). In 1912–1914, he was a teacher in Pinsk, where his eldest son, Daniel, was born to him, who later became the creator and first director of his father’s museum."
           },
           "thirdLine": {
-            "data-time": "1915-1918",
+            "dataTime": "1915-1918",
             "data": "In 1915 he was evacuated with his family in the Moscow region, worked as a teacher in the Dmitrov district. In the same year, mobilized into the army. He graduated from the Alexander Military School Moscow, 1916 and served in the reserve regiment in Perm. At this time, his family moved to Oboyan (Kursk Province). In the rank of second lieutenant in the summer of 1917 he was sent to the Romanian front "
           },
           "fourthLine": {
-            "data-time": "1921-1956",
+            "dataTime": "1921-1956",
             "data": "In May 1921 he moved to Minsk. Later he was engaged in creative and scientific activities. Academician (1928), since 1929 - Vice-President of the Academy of Sciences of the BSSR, deputy of the Supreme Council of the BSSR (1938-1956). During the Great Patriotic War, in evacuation Moscow, Tashkent, Moscow. In 1944, he returned to Minsk.The USSR Supreme Soviet Deputies (1946-1956), Chairman of the Belarusian Republican Committee for the Defense of Peace. One of the editors of the academic Russian-Belarusian Dictionary (1953)."
           },
           "fifthLine": {
-            "data-time": "1956",
+            "dataTime": "1956",
             "data": "At the end of his life, he suffered a lot and often, in particular, suffered 26 pneumonia. Yakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk"
           }
         },

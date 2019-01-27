@@ -6,7 +6,6 @@ import './main.scss';
 class Main extends React.Component {
   
   render() {
-    console.log(this.props);
     return (
       <div>
         <div className="portal">
