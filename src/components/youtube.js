@@ -14,7 +14,7 @@ export default class Youtube extends React.Component {
               caption="Example of an optional caption."
               src={author.ru.youtube}
             >
-              <img src="http://lorempixel.com/400/200/sports/3" />
+              <img src="http://img.youtube.com/vi//2.jpg" />
             </BigPicture>
           );
         })}

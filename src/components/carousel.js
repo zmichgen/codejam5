@@ -1,7 +1,5 @@
 import React from "react";
 import Swiper from "react-id-swiper";
-//import * as imgMelezsh from "../img/melezsh";
-//import * as imgKupala from "../img/kupala";
 
 export default class Carousel extends React.Component {
   constructor(props) {
@@ -40,11 +38,21 @@ export default class Carousel extends React.Component {
     return (
       <div>
         <Swiper {...params}>
-          <div>Slide 1</div>
-          <div>Slide 2</div>
-          <div>Slide 3</div>
-          <div>Slide 4</div>
-          <div>Slide 5</div>
+          <div>
+            <img src="../img/melezsh/0.png" />;
+          </div>
+          <div>
+            <img src="../src/img/melezsh/1.png" />;
+          </div>
+          <div>
+            <img src="../src/img/melezsh/2.png" />;
+          </div>
+          <div>
+            <img src="../src/img/melezsh/3.png" />;
+          </div>
+          <div>
+            <img src="../src/img/melezsh/4.png" />;
+          </div>
         </Swiper>
         <button onClick={this.goNext}>Next</button>
         <button onClick={this.goPrev}>Prev</button>

@@ -1,11 +1,14 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from "react";
+import Youtube from "./components/youtube";
+import Carousel from "./components/carousel";
+import "./App.css";
 
 class App extends Component {
   render() {
     return (
       <div>
-        <h1>Hello world!</h1>
+        <Youtube />
+        <Carousel />
       </div>
     );
   }
