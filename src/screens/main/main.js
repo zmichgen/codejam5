@@ -3,18 +3,23 @@ import Hero from '../../components/hero/hero';
 import InfoBlock from '../../components/about/about';
 import './main.scss';
 
-const Main = props => {
-  return (
-    <div>
-      <div className="portal">
-        <Hero lang={props}/>
-        <InfoBlock lang={props}/>
-      </div>
-      <div className="dreamTeam">
+class Main extends React.Component {
+  
+  render() {
+    console.log(this.props);
+    return (
+      <div>
+        <div className="portal">
+          <Hero lang={this.props.lang} authorName={this.props.authorName}/>
+          <InfoBlock lang={this.props}/>
+        </div>
+          <div className="dreamTeam">  
+        </div>
+      </div>   
+    );
 
-      </div>
-    </div>   
-  );
+  }
+  
 }
 
 export default Main;

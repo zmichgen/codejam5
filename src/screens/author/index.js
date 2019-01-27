@@ -3,8 +3,6 @@ import './index.css';
 import data from '../../codejam5.json';
 import BiographyTimeLine from '../../components/timeline/biography-time-line';
 
-const name = "Иван Мележ"; //this.props.AuthorName
-const lang = 'ru'; //this.props.lang
 export default class Author extends Component {
   getListingBooks = () => data[this.props.lang].autors[this.props.AuthorName].productList.map((e, i) => {
     return <li key={i}>{e}</li>
@@ -23,7 +21,7 @@ export default class Author extends Component {
         />
         <p className="about-author-text">{data[this.props.lang].autors[this.props.AuthorName].about}</p>
       </section>
-      <BiographyTimeLine lang={this.props.lang} autorName={this.props.AutorName}/>
+      <BiographyTimeLine lang={this.props.lang} autorName={this.props.AuthorName}/>
       <ul>
         {this.getListingBooks()}
       </ul>

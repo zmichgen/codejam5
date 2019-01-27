@@ -7,7 +7,7 @@ import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
 import MainPage from "./screens/main/main";
-import AutorPage from './screens/author/index';
+import AutorPage from "./screens/author/index";
 
 const Search = props => {
   const header = _.keys(Data[props].autors)[1];
@@ -18,15 +18,21 @@ const Search = props => {
 
 const Autor = props => {
   return () => {
-    return <AutorPage lang={props.lang} AuthorName = {props.AuthorName}/>;
+    return <AutorPage lang={props.lang} AuthorName={props.AuthorName} />;
   };
 };
 
 const Main = props => {
   return () => {
-    return MainPage(props);
+    return <MainPage lang={props.lang} authorName={props.AuthorName} />;
   };
 };
+
+const randomIndex = (number) => {
+  const date = new Date();
+  const day = date.getDay() + 1;
+  return  day % number;
+}
 
 class App extends Component {
   constructor() {
@@ -45,10 +51,12 @@ class App extends Component {
 
   render() {
     const menuItems = _.values(Data[this.state.lang].interface.mainMenu);
-    const mainPage = Main(this.state.lang);
+    const authors = _.keys(Data[this.state.lang].autors);
+    const authorName = authors[randomIndex(authors.length)];    
     const searchPage = Search(this.state.lang);
-    const props = {lang: this.state.lang, AuthorName: 'Янка Купала' };
+    const props = { lang: this.state.lang, AuthorName: authorName };
     const autorPage = Autor(props);
+    const mainPage = Main(props);
     return (
       <Router basename="/codejam5">
         <div className="wrapper">

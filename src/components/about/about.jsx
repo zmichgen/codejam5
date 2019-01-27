@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.scss';
 
-
+// data about project
 const screenData = {
   ru: '',
   by: '',
