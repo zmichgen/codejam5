@@ -6,17 +6,17 @@ import Data from "./codejam5.json";
 import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
-import Hero from "./components/hero/hero";
+import MainPage from "./views/main";
 
-const Main = props => {
+const Search = props => {
   const header = _.keys(Data[props].autors)[1];
   return () => {
     return <h1>{header}</h1>;
   };
 };
-const Search = props => {
+const Main = props => {
   return () => {
-    return Hero(props);
+    return MainPage(props);
   };
 };
 
