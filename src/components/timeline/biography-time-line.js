@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import { Timeline, TimelineItem }  from 'vertical-timeline-component-for-react';
-import data from '../../data.json';
+import data from '../../codejam5.json';
 
 const _ = require('lodash');
 
 export default class BiographyTimeLine extends Component {
   findAuthor = (findName) => {
+    console.log(this.props);
     return data[this.props.lang].autors[findName]
   }
 

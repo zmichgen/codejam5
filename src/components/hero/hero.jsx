@@ -1,11 +1,6 @@
 import React from "react";
-import * as _ from "lodash";
 import Data from "../../codejam5.json";
 import "./hero.scss";
-
-const randomKey = number => {
-  return Math.floor(Math.random() * number);
-};
 
 const title = {
   ru: "ПИСАТЕЛЬ ДНЯ",
@@ -13,57 +8,17 @@ const title = {
   en: "WRITER OF THE DAY"
 };
 
-const getDate = () => {
-  const date = new Date();
-  return _.join([date.getFullYear(), date.getMonth() + 1, date.getDate()], ":");
-};
-
 const getImage = async imageName => {
   const imgSrc = await import(/* webpackMode: "eager" */ `../../images/portraits/${imageName}.jpg`);
   return imgSrc.default;
-};
-
-const getKey = number => {
-  let myHeroKey = JSON.parse(localStorage.getItem("myHeroKey"));
-  if (!myHeroKey) {
-    const key = randomKey(number);
-    const date = getDate();
-    myHeroKey = {
-      key: key,
-      date: date
-    };
-    localStorage.setItem("myHeroKey", JSON.stringify(myHeroKey));
-    return key;
-  } else {
-    let { key, date } = myHeroKey;
-    if (date === getDate()) {
-      return key;
-    } else {
-      const newkey = randomKey(number);
-      if (newkey === key) {
-        key = key > 2 ? key - 1 : key + 1;
-      } else {
-        key = newkey;
-      }
-      const date = getDate();
-      myHeroKey = {
-        key: key,
-        date: date
-      };
-      localStorage.setItem("myHeroKey", JSON.stringify(myHeroKey));
-      return key;
-    }
-  }
 };
 
 class Hero extends React.Component {
   constructor(props) {
     super();
     this.lang = props.lang;
-    const heroes = _.keys(Data[this.lang].autors);
-    const key = getKey(heroes.length);
-    this.hero = heroes[key];    
-    this.data = _.values(Data[this.lang].autors)[key];
+    this.hero= props.authorName;  
+    this.data = Data[this.lang].autors[props.authorName];
     this.name = this.data.image;
   }
   state = {

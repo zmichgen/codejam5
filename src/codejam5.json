@@ -5,7 +5,8 @@
       "mainMenu": {
         "main": "Главная",
         "search": "Поиск",
-        "brand": "Белорусские писатели"
+        "brand": "Белорусские писатели",
+        "autor": "Автор"
       }
     },
     "autors": {
@@ -262,7 +263,8 @@
        "mainMenu": {
         "main": "Галоуная",
         "search": "Пошук",
-        "brand": "Беларускія пісьменнікі"
+        "brand": "Беларускія пісьменнікі",
+        "autor": "Аўтар"
       }
     },
     "autors": {
@@ -505,7 +507,8 @@
       "mainMenu": {
         "main": "Main",
         "search": "Search",
-        "brand": "Belorassian writers"
+        "brand": "Belorassian writers",
+        "autor": "Autor"
       }
     },
     "autors": {
