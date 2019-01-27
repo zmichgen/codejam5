@@ -1,0 +1,27 @@
+@import "../../../node_modules/react-image-gallery/styles/css/image-gallery.css";
+
+.image-gallery-thumbnail-inner .active {
+  border: none;
+}
+
+.image-gallery {
+  display: flex;
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.image-gallery-swipe {
+  display: flex;
+  justify-content: center;
+}
+
+.image-gallery-slide img {
+  width: auto;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.image-gallery-thumbnail-inner img{
+  height: 80px;
+}
