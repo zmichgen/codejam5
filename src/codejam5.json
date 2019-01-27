@@ -11,7 +11,7 @@
     "autors": {
       "Иван Мележ": {
         "name": "Иван Мележ",
-      "image": "",
+      "image": "meleg",
       "years": "1921-1976",
       "birthdayPlace": "Глинище",
       "description": "Белорусский советский прозаик, драматург, публицист",
@@ -60,13 +60,15 @@
         "Что он за человек, 1961",
         "Жизненные проблемы, 1975"
       ],
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+       "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Основное место работы",
+        "ballonContent": "Большинство произведений Иван Мележ создал здесь"
+       }
        },
       "Янка Купала": {
         "name": "Янка Купала",
-      "image": "",
+      "image": "kupala",
       "years": "1882-1942",
       "birthdayPlace": "Вязынка",
       "description": "Белорусский поэт и переводчик, драматург, публицист",
@@ -104,14 +106,16 @@
         "Над рекой Орессой, 1933",
         "Тарасова доля, 1939"
       ],
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Основное место работы",
+        "ballonContent": "Большинство произведений Янка Купала создал здесь"
+       }
     },
    
       "Владимир Короткевич": {
-        "name": "владимир короткевич",
-        "image": "",
+        "name": "Владимир Короткевич",
+        "image": "korotkevich",
         "years": "1930 - 1984",
         "birthdayPlace": "Oрша",
         "description": "Белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы",
@@ -151,13 +155,15 @@
           "Седая легенда, 1961г",
           "Черный замок ольшанский, 1979г"
         ],
-        "coordinates": {
-          "workPlace": [30.417883, 54.510122]
-        } 
+        "geoMark": {
+          "coordinates": [30.417883, 54.510122],
+          "iconContent": "Основное место работы",
+          "ballonContent": "Большинство произведений Владимир Короткевич создал здесь"
+         } 
        },
       "Рыгор Бородулин": { 
         "name": "Рыгор Бородулин",
-        "image": "",
+        "image": "borodulin",
         "years": "1935 - 2014",
         "birthdayPlace": "Вересовка",
         "description": "Белорусский поэт, эссеист, переводчик. Народный поэт Беларуси",
@@ -193,13 +199,15 @@
           "Опрокинутое, 2010",
           "Ушачский словазбор Рыгора Бородулина, 2013"
         ],
-        "coordinates": {
-          "birthdayPlace": [ 53.902496, 27.561481 ]
-        }
+        "geoMark": {
+          "coordinates": [53.902286, 27.561722],
+          "iconContent": "Основное место работы",
+          "ballonContent": "Большинство произведений Рыгор Бородулин создал здесь"
+         }
       },
       "Якуб Колас": { 
         "name": "Якуб Колас",
-      "image":"" ,
+      "image":"kolas" ,
       "years": "1882 -1956",
       "birthdayPlace": "Окинчицы",
       "description": "Настоящее имя и фамилия Константин Михайлович Мицкевич. Белорусский советский писатель, поэт и переводчик",
@@ -241,9 +249,11 @@
         "На просторах жизни, 1926", 
         "В глубине Полесья, 1927"
       ],      
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Основное место работы",
+        "ballonContent": "Большинство произведений Якуб Колас создал здесь"
+       }
       }
     }
   },
@@ -258,7 +268,7 @@
     "autors": {
       "Іван Мележ": { 
         "name": "Іван Мележ",
-      "image": "",
+      "image": "meleg",
       "years": "1921-1976",
       "birthdayPlace": "Глiнішча",
       "description": "Беларускі празаік, драматург, публіцыст.",
@@ -295,13 +305,15 @@
         "Што ён за чалавек, 1961",
         "Жыццёвыя клопаты, 1975"
       ],
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Асноўнае месца працы",
+        "ballonContent": "Большасць твораў Іван Мележ стварыў тут "
+       }
       },
       "Янка Купала": {
         "name": "Янка Купала",
-        "image":"" ,
+        "image":"kupala" ,
         "years": "1882-1942",
         "birthdayPlace": "Вязынка",
         "description": "Беларускі паэт, драматург, публіцыст, перакладчык",
@@ -339,13 +351,15 @@
           "Над ракой Арэсай, 1933",
           "Тарасова доля, 1939"
         ],
-        "coordinates": {
-          "workPlace": [53.902286, 27.561722]
-        }
+        "geoMark": {
+          "coordinates": [53.902286, 27.561722],
+          "iconContent": "Асноўнае месца працы",
+          "ballonContent": "Большасць твораў Якуб Колас стварыў тут"
+         }
       },
       "Уладзімір Караткевіч": {
-        "name": "уладзімір караткевіч",
-      "image": "",
+        "name": "Уладзімір Караткевіч",
+      "image": "korotkevich",
       "years": "1930 - 1984",
       "birthdayPlace": "Oрша",
       "description": "Уладзі́мір Сямё́навіч Каратке́віч беларускі паэт, празаік, драматург, публіцыст, перакладчык, сцэнарыст, класік беларускай літаратуры",
@@ -385,13 +399,15 @@
         "Мая Іліяда 1969",
         "Паэзія розных гадоў 1987"
       ],
-      "coordinates":{
-        "workPlace":[30.417883, 54.510122]
-      } 
+      "geoMark": {
+        "coordinates": [30.417883, 54.510122],
+        "iconContent": "Асноўнае месца працы",
+        "ballonContent": "Большинство произведений Уладзімір Караткевіч создал здесь"
+       }
        },
       "Рыгор Барадулін": {
         "name": "Рыгор Барадулін",
-      "image": "",
+      "image": "borodulin",
       "years": "1935 - 2014",
       "birthdayPlace": "Верасоўка",
       "description": "Вядомы таксама як Дзя́дзька Рыго́р — беларускі і савецкі паэт, эсэіст і перакладчык",
@@ -427,13 +443,15 @@
         "Перакуленае, 2010",
         "Вушацкі словазбор Рыгора Барадуліна, 2013"
       ],
-      "coordinates": {
-        "birthdayPlace": [ 53.902496, 27.561481 ]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Асноўнае месца працы",
+        "ballonContent": "Большинство произведений Рыгор Барадулін создал здесь"
+       }
        },
       "Якуб Колас": { 
         "name": "Якуб Колас",
-      "image":"" ,
+      "image":"kolas" ,
       "years": "1882 -1956",
       "birthdayPlace": "Акiнчыцы",
       "description": "Настоящее имя и фамилия Константин Михайлович Мицкевич. Белорусский советский писатель, поэт и переводчик",
@@ -474,9 +492,11 @@
        "На прасторах жыцця 1926",
        "У глыбіні Палесся, 1927"
       ],      
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Асноўнае месца працы",
+        "ballonContent": "Большасць твораў Якуб Колас стварыў тут"
+       }
       }    
     }
   },
@@ -491,7 +511,7 @@
     "autors": {
       "Ivan Melezh": {
         "name": "Ivan Melezh",
-      "image": "",
+      "image": "meleg",
       "years": "1921-1976",
       "birthdayPlace": "Glinische",
       "description": "A Belarussian prose writer, playwright and publicistic",
@@ -528,14 +548,16 @@
         "Што ён за чалавек, 1961",
         "Жыццёвыя клопаты, 1975"
       ],
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Main place of work",
+        "ballonContent": "Most of the works Ivan Melezh created here"
+       }
     
     },
       "Yanka Kupala": {
         "name": "Yanka Kupala",
-      "image": "",
+      "image": "kupala",
       "years": "1882-1942",
       "birthdayPlace": "Viazynka",
       "description": "A Belarusian poet and writer. Kupala is considered one of the greatest Belarusian-language writers of the 20th century.",
@@ -574,14 +596,16 @@
         "On Paths of Life, 1913",
         "Tuteishiya (The Locals), 1922 " 
       ],
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Main place of work",
+        "ballonContent": "Most of the works Yanka Kupala created here"
+       }
     
     },
       "Vladimir Korotkevich": {
-        "name": "vladimir korotkevich",
-      "image": "",
+        "name": "Vladimir Korotkevich",
+      "image": "korotkevich",
       "years": "1930 - 1984",
       "birthdayPlace": "Orsha",
       "description": "Belarusian Soviet writer, poet, playwright, screenwriter and publicist, classic of Belarusian literature",
@@ -621,13 +645,15 @@
         "The Gray Legend, 1961",
         "Black castle olshansky, 1979"
       ],
-      "coordinates": {
-        "workPlace": [30.417883, 54.510122]
-      } 
+      "geoMark": {
+        "coordinates": [30.417883, 54.510122],
+        "iconContent": "Main place of work",
+        "ballonContent": "Most of the works Vladimir Korotkevich created here"
+       }
        },
       "Ryhor Baradulin": {
         "name": "Ryhor Baradulin",
-      "image": "",
+      "image": "borodulin",
       "years": "1935 - 2014",
       "birthdayPlace": "Verasowka",
       "description": "Belarusian poet, essayist and translator",
@@ -663,14 +689,16 @@
         "Oprokinutoye, 2010",
         "Ushachskiy slovazbor Rygora Borodulina, 2013"
       ],
-      "coordinates": {
-        "birthdayPlace": [ 53.902496, 27.561481 ]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Main place of work",
+        "ballonContent": "Most of the works Ryhor Baradulin created here"
+       }
     
        },
       "Yakub Kolas": {
         "name": "Yakub Kolas",
-      "image":"" ,
+      "image":"kolas" ,
       "years": "1882 -1956",
       "birthdayPlace": "Okinchitsy",
       "description": "Present name and surname Konstantin Mikhailovich Mitskevich. Belarusian Soviet writer, poet and translator",
@@ -710,9 +738,11 @@
         "In the vastness of life, 1926",
         "In the depths of Polesie, 1927"
       ],      
-      "coordinates": {
-        "workPlace": [53.902286, 27.561722]
-      }
+      "geoMark": {
+        "coordinates": [53.902286, 27.561722],
+        "iconContent": "Main place of work",
+        "ballonContent": "Most of the works Yakub Kolas created here"
+       }
        }
     }
   }
