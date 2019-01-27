@@ -9,7 +9,7 @@ const randomKey = number => {
 
 const title = {
   ru: "ПИСАТЕЛЬ ДНЯ",
-  by: "ПIСМЕННIКI ДНЯ",
+  by: "ПIСМЕННIК ДНЯ",
   en: "WRITER OF THE DAY"
 };
 
