@@ -25,3 +25,15 @@
 .image-gallery-thumbnail-inner img{
   height: 80px;
 }
+
+.image-gallery-content {
+  position: relative;
+  width: 100%;
+  line-height: 0;
+  top: 0;
+}
+
+.image-gallery-slide-wrapper {
+  position: relative;
+  width: 100%;
+}

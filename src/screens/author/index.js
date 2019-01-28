@@ -13,7 +13,7 @@ export default class Author extends Component {
   })
   
   render() {
-    console.log(data[this.props.lang].autors[this.props.testName])
+    console.log('lang', data[this.props.lang])
     return (
       <>
       <section className="about-author">
@@ -29,7 +29,7 @@ export default class Author extends Component {
       <ul>
         {this.getListingBooks()}
       </ul>
-      <Gallery />
+      <Gallery autorName={this.props.testName}/>
       <Youtube lang={this.props.lang} autorName={this.props.testName}/>
       <YandexMap lang={this.props.lang} autorName={this.props.testName}/>
       </>

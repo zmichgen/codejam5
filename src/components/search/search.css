@@ -3,6 +3,12 @@
   flex-wrap: wrap;
 }
 
+.author-info {
+  max-width: 250px;
+  width: 100%;
+  text-align: center;
+}
+
 .author-info:hover {
   cursor: pointer;
 }
@@ -12,19 +18,6 @@
   height: 190px;
 }
 
-.image-gallery {
-  display: flex;
-  margin: 0 auto;
-}
-
-.image-gallery-content {
-  position: relative;
-  width: 100%;
-  line-height: 0;
-  top: 0;
-}
-
-.image-gallery-slide-wrapper {
-  position: relative;
-  width: 100%;
+.author-description {
+  text-align: justify;
 }
