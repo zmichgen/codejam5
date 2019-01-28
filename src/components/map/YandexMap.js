@@ -27,7 +27,7 @@ class YandexMap extends Component {
           defaultGeometry={data[this.props.lang].autors[this.props.autorName].geoMark.coordinates}
           properties={{
             iconContent: data[this.props.lang].autors[this.props.autorName].geoMark.iconContent,
-            balloonContentBody: data[this.props.lang].autors[this.props.autorName].geoMark.balloonContent
+            balloonContentBody: data[this.props.lang].autors[this.props.autorName].geoMark.ballonContent
           }}
           options={{
             preset: 'islands#blackStretchyIcon'
