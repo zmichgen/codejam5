@@ -8,17 +8,27 @@ import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
 import MainPage from "./screens/main/main";
 import AutorPage from "./screens/author/index";
+import SearchList from "./screens/search/search-list";
 
-const Search = props => {
-  const header = _.keys(Data[props].autors)[1];
+const Search = (props, fun) => {
   return () => {
-    return <h1>{header}</h1>;
+    return (
+      <SearchList lang={props.lang} newName={props.name} selectAuthor={fun} />
+    );
   };
 };
 
 const Autor = props => {
   return () => {
-    return <AutorPage lang={props.lang} AuthorName={props.AuthorName} />;
+    return (
+      <AutorPage
+        lang={props.lang}
+        AuthorName={props.AuthorName}
+        testName={props.name}
+        localName={props.localName}
+        localLang={props.localLang}
+      />
+    );
   };
 };
 
@@ -28,17 +38,18 @@ const Main = props => {
   };
 };
 
-const randomIndex = (number) => {
+const randomIndex = number => {
   const date = new Date();
   const day = date.getDay() + 1;
-  return  day % number;
-}
+  return day % number;
+};
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      lang: "ru"
+      lang: "ru",
+      newName: localStorage.getItem("name")
     };
   }
 
@@ -49,12 +60,20 @@ class App extends Component {
     }
   };
 
+  changeAuthorName = name => {
+    this.setState({ newName: name });
+  };
+
   render() {
     const menuItems = _.values(Data[this.state.lang].interface.mainMenu);
     const authors = _.keys(Data[this.state.lang].autors);
-    const authorName = authors[randomIndex(authors.length)];    
-    const searchPage = Search(this.state.lang);
-    const props = { lang: this.state.lang, AuthorName: authorName };
+    const authorName = authors[randomIndex(authors.length)];
+    const props = {
+      lang: this.state.lang,
+      AuthorName: authorName,
+      name: this.state.newName
+    };
+    const searchPage = Search(props, this.changeAuthorName);
     const autorPage = Autor(props);
     const mainPage = Main(props);
     return (
@@ -88,11 +107,11 @@ class App extends Component {
                     {menuItems[1]}
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link to={"/autor"} className="nav-link">
+                {/* <li className="nav-item">
+                  <Link to={"/autor"} className="nav-link" onClick={this.testFun}>
                     {menuItems[3]}
                   </Link>
-                </li>
+                </li> */}
               </ul>
               <div className="switchLang" onClick={this.switchLanguage}>
                 <button>
