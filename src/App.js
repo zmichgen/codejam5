@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import * as _ from "lodash";
 import "./App.scss";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Data from "./codejam5.json";
+import Data from "./data.json";
 import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
