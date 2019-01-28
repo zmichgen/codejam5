@@ -1,116 +1,4 @@
 {
-  "autors": {
-    "Иван Мележ": {
-      "gallery": [
-        "/media/melezh/melezh-1.jpg",
-        "/media/melezh/melezh-2.jpg",
-        "/media/melezh/melezh-3.jpg",
-        "/media/melezh/melezh-4.jpg",
-        "/media/melezh/melezh-5.jpg",
-        "/media/melezh/melezh-6.jpg"
-      ]
-    },
-    "Янка Купала": {
-      "gallery": [
-        "/media/kupala/kupala-1.jpg",
-        "/media/kupala/kupala-2.jpg",
-        "/media/kupala/kupala-3.jpg",
-        "/media/kupala/kupala-4.jpg",
-        "/media/kupala/kupala-5.jpg",
-        "/media/kupala/kupala-6.jpg",
-        "/media/kupala/kupala-7.jpg",
-        "/media/kupala/kupala-8.jpg"
-      ]
-    },
-    "Владимир Короткевич": {
-      "gallery": [
-        "/media/korotkevich/korotkevich-1.jpg",
-        "/media/korotkevich/korotkevich-2.jpg",
-        "/media/korotkevich/korotkevich-3.jpg",
-        "/media/korotkevich/korotkevich-4.jpg",
-        "/media/korotkevich/korotkevich-5.jpg",
-        "/media/korotkevich/korotkevich-6.jpg",
-        "/media/korotkevich/korotkevich-7.jpg",
-        "/media/korotkevich/korotkevich-8.jpg",
-        "/media/korotkevich/korotkevich-9.jpg",
-        "/media/korotkevich/korotkevich-10.jpg"
-      ]
-    },
-    "Рыгор Бородулин": {
-      "gallery": [
-        "/media/baradulin/baradulin-1.jpg",
-        "/media/baradulin/baradulin-2.jpg",
-        "/media/baradulin/baradulin-3.jpg",
-        "/media/baradulin/baradulin-4.jpg",
-        "/media/baradulin/baradulin-5.jpg",
-        "/media/baradulin/baradulin-6.jpg",
-        "/media/baradulin/baradulin-7.jpg"
-      ]
-    },
-    "Якуб Колас": {
-      "gallery": [
-        "/media/kolas/kolas-1.jpg",
-        "/media/kolas/kolas-2.jpg",
-        "/media/kolas/kolas-3.jpg",
-        "/media/kolas/kolas-4.jpg",
-        "/media/kolas/kolas-5.jpg",
-        "/media/kolas/kolas-6.jpg",
-        "/media/kolas/kolas-7.jpg",
-        "/media/kolas/kolas-8.jpg",
-        "/media/kolas/kolas-9.jpg"
-      ]
-    },
-    "Максим Танк": {
-      "gallery": [
-        "/media/tank/tank-1.jpg",
-        "/media/tank/tank-2.jpg",
-        "/media/tank/tank-3.jpg",
-        "/media/tank/tank-4.jpg",
-        "/media/tank/tank-5.jpg",
-        "/media/tank/tank-6.jpg",
-        "/media/tank/tank-7.jpg"
-      ]
-    },
-    "Василь Быков": {
-      "gallery": [
-        "/media/bykov/bykov-1.jpg",
-        "/media/bykov/bykov-2.jpg",
-        "/media/bykov/bykov-3.jpg",
-        "/media/bykov/bykov-4.jpg",
-        "/media/bykov/bykov-5.jpg",
-        "/media/bykov/bykov-6.jpg"
-      ]
-    },
-    "Кондрат Крапива": {
-      "gallery": [
-        "/media/krapiva/krapiva-1.jpg",
-        "/media/krapiva/krapiva-2.jpg",
-        "/media/krapiva/krapiva-3.jpg",
-        "/media/krapiva/krapiva-4.jpg",
-        "/media/krapiva/krapiva-5.jpg",
-        "/media/krapiva/krapiva-6.jpg"
-      ]
-    },
-    "Викентий Дунин-Марцинкевич": {
-      "gallery": [
-        "/media/dunin-martsinkevich/dunin-martsinkevich-1.jpg",
-        "/media/dunin-martsinkevich/dunin-martsinkevich-2.jpg",
-        "/media/dunin-martsinkevich/dunin-martsinkevich-3.jpg",
-        "/media/dunin-martsinkevich/dunin-martsinkevich-4.jpg"
-      ]
-    },
-    "Янка Брыль": {
-      "gallery": [
-        "/media/bril/bril-1.jpg",
-        "/media/bril/bril-2.jpg",
-        "/media/bril/bril-3.jpg",
-        "/media/bril/bril-4.jpg",
-        "/media/bril/bril-5.jpg",
-        "/media/bril/bril-6.jpg",
-        "/media/bril/bril-7.jpg"
-      ]
-    }
-  },
   "ru": {
     "interface": {
       "mainMenu": {
@@ -128,6 +16,14 @@
         "description": "Белорусский советский прозаик, драматург, публицист",
         "youtube": "https://www.youtube.com/watch?v=I-0ezESiCCw",
         "about": "Белорусский писатель, народный писатель БССР (1972). Член КПСС с 1940. Родился в крестьянской семье. Участник Великой Отечественной войны; в 1942 был тяжело ранен. Окончил филологический факультет Белорусского государственного университета (1945). Работал в редакции журнала «Полымя», преподавал белорусскую литературу в БГУ. Романы трилогии (Ленинская премия, 1972) написаны с большим эпическим мастерством и глубоким психологизмом. Выступал также как автор драматических и литературно-критических произведений. Член Всемирного Совета Мира (1970). Заместитель председателя правления СП Белоруссии (1966). Награжден 4 орденами, а также медалями.",
+        "gallery": [
+          "/media/melezh/melezh-1.jpg",
+          "/media/melezh/melezh-2.jpg",
+          "/media/melezh/melezh-3.jpg",
+          "/media/melezh/melezh-4.jpg",
+          "/media/melezh/melezh-5.jpg",
+          "/media/melezh/melezh-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1921",
@@ -188,6 +84,16 @@
         "description": "Белорусский поэт и переводчик, драматург, публицист",
         "youtube": "https://www.youtube.com/watch?v=9FZehV2qJTk",
         "about": "Классик белорусской литературы. Народный поэт БССР (1925). Академик АН БССР (1928) и АН УССР (1929). Лауреат Сталинской премии первой степени (1941).",
+        "gallery": [
+          "/media/kupala/kupala-1.jpg",
+          "/media/kupala/kupala-2.jpg",
+          "/media/kupala/kupala-3.jpg",
+          "/media/kupala/kupala-4.jpg",
+          "/media/kupala/kupala-5.jpg",
+          "/media/kupala/kupala-6.jpg",
+          "/media/kupala/kupala-7.jpg",
+          "/media/kupala/kupala-8.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1882",
@@ -237,6 +143,18 @@
         "description": "Белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы",
         "youtube": "https://www.youtube.com/watch?v=TOBB80OpIRI",
         "about": "Влади́мир Семёнович Коротке́вич — белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы. Является одной из наиболее ярких фигур в белорусской литературе XX столетия. Стал первым белорусским писателем, обратившимся к жанру исторического детектива. Творчество Владимира Короткевича отличается романтической направленностью, высокой художественной культурой, патриотичным пафосом и гуманистическим звучанием. Писатель существенно обогатил белорусскую литературу в тематических и жанровых отношениях, наполнил её интеллектуальным и философским содержанием. Наиболее известны такие произведения автора, как повести «Дикая охота короля Стаха», «Седая легенда», романы «Колосья под серпом твоим», «Христос приземлился в Гродно», «Чёрный замок Ольшанский», эссе «Земля под белыми крыльями».",
+        "gallery": [
+          "/media/korotkevich/korotkevich-1.jpg",
+          "/media/korotkevich/korotkevich-2.jpg",
+          "/media/korotkevich/korotkevich-3.jpg",
+          "/media/korotkevich/korotkevich-4.jpg",
+          "/media/korotkevich/korotkevich-5.jpg",
+          "/media/korotkevich/korotkevich-6.jpg",
+          "/media/korotkevich/korotkevich-7.jpg",
+          "/media/korotkevich/korotkevich-8.jpg",
+          "/media/korotkevich/korotkevich-9.jpg",
+          "/media/korotkevich/korotkevich-10.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1930 – 1944",
@@ -288,6 +206,15 @@
         "description": "Белорусский поэт, эссеист, переводчик. Народный поэт Беларуси",
         "youtube": "https://www.youtube.com/watch?v=kuaJLU71W10",
         "about": "Рыгор Бородулин стал последним белорусом, удостоившимся звания народного поэта, являлся почётным доктором БГУ. В 2006 г. Бородулин был номинирован на Нобелевскую премию в области литературы за сборник стихов «Ксты». В его произведениях открывается живой источник красоты языка и мудрости народа, его традиций и обычаев, своеобразной натурфилософии.",
+        "gallery": [
+          "/media/baradulin/baradulin-1.jpg",
+          "/media/baradulin/baradulin-2.jpg",
+          "/media/baradulin/baradulin-3.jpg",
+          "/media/baradulin/baradulin-4.jpg",
+          "/media/baradulin/baradulin-5.jpg",
+          "/media/baradulin/baradulin-6.jpg",
+          "/media/baradulin/baradulin-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1935 – 2014",
@@ -335,6 +262,17 @@
         "description": "Настоящее имя и фамилия Константин Михайлович Мицкевич. Белорусский советский писатель, поэт и переводчик",
         "youtube": "https://www.youtube.com/watch?v=HxFeWGZspJQ",
         "about": "Якуб Колас внес значительный вклад в национальную и мировую литературу. Его произведения переведены более чем на 40 языков мира. Наиболее важными его достижениями являются: расширение жанровых возможностей   белорусской литературы, обогащение национальной  поэзии философской и пейзажной лирикой, сочетание лирики и эпоса, закладывание  основ белорусского романа и белорусской детской литературы, становление норм белорусского литературного языка",
+        "gallery": [
+          "/media/kolas/kolas-1.jpg",
+          "/media/kolas/kolas-2.jpg",
+          "/media/kolas/kolas-3.jpg",
+          "/media/kolas/kolas-4.jpg",
+          "/media/kolas/kolas-5.jpg",
+          "/media/kolas/kolas-6.jpg",
+          "/media/kolas/kolas-7.jpg",
+          "/media/kolas/kolas-8.jpg",
+          "/media/kolas/kolas-9.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1882",
@@ -385,6 +323,15 @@
         "description": "Имя при рождении Евгений Иванович Скурко. Белорусский советский поэт, переводчик, государственный деятель.",
         "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
         "about": "Максим Танк является одним из наиболее известных белорусских поэтов. Его творчество имело важное значение для развития белорусской литературы не только в художественном, но и национальном смысле: ведь он много сделал для популяризации белорусского языка, переводил на него книги и всячески радел за его развитие.",
+        "gallery": [
+          "/media/tank/tank-1.jpg",
+          "/media/tank/tank-2.jpg",
+          "/media/tank/tank-3.jpg",
+          "/media/tank/tank-4.jpg",
+          "/media/tank/tank-5.jpg",
+          "/media/tank/tank-6.jpg",
+          "/media/tank/tank-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1912",
@@ -434,6 +381,14 @@
         "description": "Василь Влади́мирович Быков — советский и белорусский писатель, общественный деятель, участник Великой Отечественной войны. Член Союза писателей СССР.",
         "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
         "about": "Родился 19 июня 1924 года в деревне Бычки Ушачского района Витебской области в крестьянской семье. Окончил 8 классов школы в деревне Кубличи, затем учился на скульптурном отделении Витебского художественного училища (1939—1940), которое оставил из-за отмены стипендий, и в школе ФЗО (до мая 1941 года). Война застала его на Украине, где он участвовал в оборонных работах. Осенью 1943 года присвоено звание младшего лейтенанта. Участвовал в боях за Кривой Рог, Александрию, Знаменку. После демобилизации жил в Гродно (с 1947 года). Печатался с 1947 года, работал в мастерских, а также в редакции областной газеты «Гродненская правда» (до 1949 года). В период с 1949 по 1955 год снова служил в Советской армии, в 1955 году окончательно демобилизовался в звании майора. С 1955 по 1972 год вновь работал в «Гродненской правде». В 1978 году переехал в Минск. Избирался депутатом Верховного Совета Белорусской ССР в 1978—1989 годах. С конца 1997 года жил за границей в политической эмиграции. Умер 22 июня 2003 года в 20 часов 30 минут от злокачественной опухоли желудка в реанимационном отделении онкологического госпиталя в Боровлянах, под Минском.",
+        "gallery": [
+          "/media/bykov/bykov-1.jpg",
+          "/media/bykov/bykov-2.jpg",
+          "/media/bykov/bykov-3.jpg",
+          "/media/bykov/bykov-4.jpg",
+          "/media/bykov/bykov-5.jpg",
+          "/media/bykov/bykov-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1924",
@@ -495,6 +450,14 @@
         "description": "Настоящее имя — Кондрат Кондратович Атрахович — белорусский советский писатель, поэт, драматург и переводчик, литературовед, сатирик, общественный деятель. Доктор филологических наук, академик АН Белорусской ССР (1950). Член ВКП(б) с 1941 года",
         "youtube": "https://www.youtube.com/watch?v=BjxiKxV32_w",
         "about": "Родился 22 февраля (5 марта) 1896 год в деревне Низок (ныне Узденский район Минской области Республики Беларусь) в крестьянской семье. Учился в церковно-приходской школе в родной деревне, Узденском народном училище, 4х-классовом городском училище города Столбцы, из которого перевёлся в училище Койданово (теперь Держинск). Творческая биография Кондрата Крапивы началась в 1922 году с публикации его первого печатного произведения, фельетона в стихах 'Жили-были', опубликованного в газете 'Комсомольская правда'. 23 мая 1922 года в майском номере газеты 'Савецкая Беларусь' появился первым белорусскоязычное сатирическое стихотворение 'Сваты'. В предисловии к последней прижизненной книге Кондрата Крапивы 'Колючий строй', вышедшей в 1989 году в издательстве 'Мастацкая літаратура', известный белорусский писатель и литературовед Иван Науменко писал: 'Если бы Кондрат Крапива даже не написал своих драм и сатирических комедий, романа 'Медведичи', то одними только своими баснями, сатирическими стихотворениями он занял бы одно из первых мест в белорусской литературе'. И чуть ниже пояснил: 'Это такой сгусток острого народного ума, разящего смеха, осмеяния зла и утверждения добра, которых до Крапивы не знала белорусская литература'.",
+        "gallery": [
+          "/media/krapiva/krapiva-1.jpg",
+          "/media/krapiva/krapiva-2.jpg",
+          "/media/krapiva/krapiva-3.jpg",
+          "/media/krapiva/krapiva-4.jpg",
+          "/media/krapiva/krapiva-5.jpg",
+          "/media/krapiva/krapiva-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1896",
@@ -552,6 +515,12 @@
         "description": "Белорусский писатель и драматург, классик белорусской литературы. Долгое время ошибочно считался племянником митрополита римско-католической церкви Российской империи Станислава Богуш-Сестренцевича. На самом деле, не был с ним в кровном родстве.",
         "youtube": "https://www.youtube.com/watch?v=NzDAnbltnPA",
         "about": "Родился Винцент (Викентий Иванович) Дунин-Марцинкевич (в метрике о рождении нет придомка Дунин, ни у родителей, ни у крёстной — родной сестры Юлианны, а сам младенец был крещен двойным именем Винцент-Якуб[5]) 4 февраля 1808 года в фольварке Панюшковичи Бобруйского повета Минской губернии в шляхетской семье. После окончания Бобруйского поветового училища и Виленской базилианской бурсы поступил на медицинский факультет Петербургского (по другим сведениям Виленского) университета, но вынужден был прервать учёбу по причине болезни. Сведения обо всех этапах образования не подтверждаются никакими архивными документами, а известны только по недостоверным биографиям Марцинкевича. В формулярном списке о службе никаких данных о полученном образовании нет. Скорее всего, оно было домашним. Писал на польском и белорусском языке. В центре его художественных зарисовок стоит белорусская деревня, её быт. Особое внимание уделяется белорусскому фольклору. Поэт красочно воспроизводит белорусские обряды (купальская ночь, дожинки, «дзяды», свадьба). Для творчества В. Дунина-Марцинкевича характерны элементы сентиментализма.",
+        "gallery": [
+          "/media/dunin-martsinkevich/dunin-martsinkevich-1.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-2.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-3.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-4.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1835-1836",
@@ -593,6 +562,15 @@
         "description": "Белорусский советский писатель и переводчик",
         "youtube": "https://www.youtube.com/watch?v=Ci1yzGPisVA",
         "about": "Белорусский советский писатель и переводчик. Народный писатель Белорусской ССР (1981). Лауреат Сталинской премии третьей степени (1952). Лауреат Государственной премии Белорусской ССР имени Якуба Коласа (1982).",
+        "gallery": [
+          "/media/bril/bril-1.jpg",
+          "/media/bril/bril-2.jpg",
+          "/media/bril/bril-3.jpg",
+          "/media/bril/bril-4.jpg",
+          "/media/bril/bril-5.jpg",
+          "/media/bril/bril-6.jpg",
+          "/media/bril/bril-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1917 - 1938",
@@ -639,7 +617,7 @@
       }
     },
     "autors": {
-      "Іван Мележ": {
+      "Иван Мележ": {
         "name": "Іван Мележ",
         "image": "/media/melezh/portret.jpg",
         "years": "1921-1976",
@@ -647,6 +625,14 @@
         "description": "Беларускі празаік, драматург, публіцыст.",
         "youtube": "https://www.youtube.com/watch?v=I-0ezESiCCw",
         "about": "Нарадзiуся 8 лютага 1921, в. Глінішча, Хойніцкі раён, Гомельская вобласць — 9 жніўня 1976, Мінск) — беларускі празаік, драматург, публіцыст. Народны пісьменнік Беларусі (1972). Лаўрэат Ленінскай прэміі (1972, за раман «Людзі на балоце» і «Подых навальніцы»), Дзяржаўнай прэміі імя Якуба Коласа (1976, за зборнік «Жыццёвыя клопаты»), Літаратурнай прэміі імя Якуба Коласа (1962, за раман «Людзі на балоце»).",
+        "gallery": [
+          "/media/melezh/melezh-1.jpg",
+          "/media/melezh/melezh-2.jpg",
+          "/media/melezh/melezh-3.jpg",
+          "/media/melezh/melezh-4.jpg",
+          "/media/melezh/melezh-5.jpg",
+          "/media/melezh/melezh-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1921-1938",
@@ -695,6 +681,16 @@
         "description": "Беларускі паэт, драматург, публіцыст, перакладчык",
         "youtube": "https://www.youtube.com/watch?v=9FZehV2qJTk",
         "about": "Класік беларускай літаратуры, адзін з заснавальнікаў новай беларускай літаратуры і літаратурнай мовы. Народны паэт Беларусі (1925). Акадэмік АН БССР (1928), АН УССР (1929). Лаўрэат Дзяржаўнай прэміі СССР (1941) за зборнік «Ад сэрца».",
+        "gallery": [
+          "/media/kupala/kupala-1.jpg",
+          "/media/kupala/kupala-2.jpg",
+          "/media/kupala/kupala-3.jpg",
+          "/media/kupala/kupala-4.jpg",
+          "/media/kupala/kupala-5.jpg",
+          "/media/kupala/kupala-6.jpg",
+          "/media/kupala/kupala-7.jpg",
+          "/media/kupala/kupala-8.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1882",
@@ -736,7 +732,7 @@
           "ballonContent": "Большасць твораў Якуб Колас стварыў тут"
         }
       },
-      "Уладзімір Караткевіч": {
+      "Владимир Короткевич": {
         "name": "Уладзімір Караткевіч",
         "image": "/media/korotkevich/portret.jpg",
         "years": "1930 - 1984",
@@ -744,6 +740,18 @@
         "description": "Уладзі́мір Сямё́навіч Каратке́віч беларускі паэт, празаік, драматург, публіцыст, перакладчык, сцэнарыст, класік беларускай літаратуры",
         "youtube": "https://www.youtube.com/watch?v=TOBB80OpIRI",
         "about": "Уладзі́мір Сямё́навіч Каратке́віч — беларускі паэт, празаік, драматург, публіцыст, перакладчык, сцэнарыст, класік беларускай літаратуры. Адна з найбольш яскравых постацей у беларускай літаратуры другой паловы XX ст.. Першы беларускі пісьменнік, які звярнуўся да жанру гістарычнага дэтэктыву. Творчасць Уладзіміра Караткевіча адрозніваецца рамантычнай скіраванасцю, высокай мастацкай культурай, патрыятычным пафасам і гуманістычным гучаннем. Пісьменнік істотна ўзбагаціў беларускую літаратуру ў тэматычных і жанравых адносінах, напоўніў яе інтэлектуальным і філасофскім зместам. Найбольш вядомыя такія творы аўтара, як аповесці «Дзікае паляванне караля Стаха», «Сівая легенда», раманы «Каласы пад сярпом тваім», «Хрыстос прызямліўся ў Гародні», «Чорны замак Альшанскі», нарыс «Зямля пад белымі крыламі».",
+        "gallery": [
+          "/media/korotkevich/korotkevich-1.jpg",
+          "/media/korotkevich/korotkevich-2.jpg",
+          "/media/korotkevich/korotkevich-3.jpg",
+          "/media/korotkevich/korotkevich-4.jpg",
+          "/media/korotkevich/korotkevich-5.jpg",
+          "/media/korotkevich/korotkevich-6.jpg",
+          "/media/korotkevich/korotkevich-7.jpg",
+          "/media/korotkevich/korotkevich-8.jpg",
+          "/media/korotkevich/korotkevich-9.jpg",
+          "/media/korotkevich/korotkevich-10.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1930 – 1948",
@@ -787,7 +795,7 @@
           "ballonContent": "Большинство произведений Уладзімір Караткевіч создал здесь"
         }
       },
-      "Рыгор Барадулін": {
+      "Рыгор Бородулин": {
         "name": "Рыгор Барадулін",
         "image": "/media/baradulin/portret.jpg",
         "years": "1935 - 2014",
@@ -795,6 +803,15 @@
         "description": "Вядомы таксама як Дзя́дзька Рыго́р — беларускі і савецкі паэт, эсэіст і перакладчык",
         "youtube": "https://www.youtube.com/watch?v=kuaJLU71W10",
         "about": "Рыгор Барадулін з’яўляецца апошнім чалавекам, які атрымаў званне «Народны паэт Беларусі». У 2006 г. кандыдатура Барадуліна была сярод намінантаў на Нобелеўскую прэмію ў галіне літаратуры за зборнік вершаў «Ксты». У яго творах адкрываецца жывая крыніца хараства мовы і мудрасці народа, яго традыцый і звычаяў, своеасаблівай натурфіласофіі.",
+        "gallery": [
+          "/media/baradulin/baradulin-1.jpg",
+          "/media/baradulin/baradulin-2.jpg",
+          "/media/baradulin/baradulin-3.jpg",
+          "/media/baradulin/baradulin-4.jpg",
+          "/media/baradulin/baradulin-5.jpg",
+          "/media/baradulin/baradulin-6.jpg",
+          "/media/baradulin/baradulin-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1935 – 2014",
@@ -842,6 +859,17 @@
         "description": "Настоящее имя и фамилия Константин Михайлович Мицкевич. Белорусский советский писатель, поэт и переводчик",
         "youtube": "https://www.youtube.com/watch?v=HxFeWGZspJQ",
         "about": "Якуб Колас унёс значны ўклад у нацыянальную і сусветную літаратуру. Яго творы перакладзены больш чым на 40 моў свету. Найбольш важнымі яго дасягненнямі з'яўляюцца: пашырэнне жанравых магчымасцяў беларускай літаратуры, ўзбагачэнне нацыянальнай паэзіі філасофскай і пейзажнай лірыкай, спалучэнне лірыкі і эпасу, закладанне асноў беларускага рамана і беларускай дзіцячай літаратуры, станаўленне норм беларускай літаратурнай мовы",
+        "gallery": [
+          "/media/kolas/kolas-1.jpg",
+          "/media/kolas/kolas-2.jpg",
+          "/media/kolas/kolas-3.jpg",
+          "/media/kolas/kolas-4.jpg",
+          "/media/kolas/kolas-5.jpg",
+          "/media/kolas/kolas-6.jpg",
+          "/media/kolas/kolas-7.jpg",
+          "/media/kolas/kolas-8.jpg",
+          "/media/kolas/kolas-9.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1882",
@@ -884,7 +912,7 @@
           "ballonContent": "Большасць твораў Якуб Колас стварыў тут"
         }
       },
-      "Максім Танк": {
+      "Максим Танк": {
         "name": "Максім Танк",
         "image": "/media/tank/portret.jpg",
         "years": "1912 -1995",
@@ -892,6 +920,15 @@
         "description": "Cапр.: Яўген Іванавіч Скурко. Беларускі і савецкі паэт, перакладчык, грамадскі дзеяч.",
         "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
         "about": "Паэзія Максіма Танка ўражвае разнастайнасцю тэм, вобразаў, форм, творчым засваеннем нацыянальнай паэтычнай традыцыі і наватарствам. А галоўная тэма, якая праходзіць праз усю творчасць М. Танка, - Радзіма ў самых розных яе праявах: гісторыя і яе адлюстраванне ў легендах і паданнях, праца, песні, мары народа, маляўнічая прырода, мілагучная родная мова.",
+        "gallery": [
+          "/media/tank/tank-1.jpg",
+          "/media/tank/tank-2.jpg",
+          "/media/tank/tank-3.jpg",
+          "/media/tank/tank-4.jpg",
+          "/media/tank/tank-5.jpg",
+          "/media/tank/tank-6.jpg",
+          "/media/tank/tank-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1912",
@@ -933,7 +970,7 @@
           "ballonContent": "Большасць твораў Максім Танк стварыў тут"
         }
       },
-      "Васіль Быкаў": {
+      "Василь Быков": {
         "name": "Васіль Быкаў",
         "image": "/media/bykov/portret.jpg",
         "years": "1924-2003",
@@ -941,6 +978,14 @@
         "description": "Васіль Уладзіміравіч Быкаў - беларускі і савецкі пісьменнік і грамадскі дзеяч, удзельнік Вялікай Айчыннай вайны, капітан.",
         "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
         "about": "Нарадзіўся ў сялянскай сям'і. У 1939 скончыў 8 класаў Кубліцкай сярэдняй школы, паступіў на скульптурнае аддзяленне Віцебскага мастацкага вучылішча. Паступіў у Віцебскую школу ФЗН № 5, дзе вучыўся да мая 1941. Вайна заспела яго ва Украіне, дзе ён удзельнічаў у абаронных работах. Увосень 1943 года прысвоена званне малодшага лейтэнанта. Ваяваў на 2-м і 3-м Украінскіх франтах. У пачатку 1944 года тры месяцы знаходзіўся ў шпіталі. Пасля дэмабілізацыі В. Быкаў жыў у Гродне (з 1947), працаваў мастаком у гродзенскіх майстэрнях, у рэдакцыі абласной газеты «Гродзенская праўда» (1947—49). У 1949—55 зноў служыў у Савецкай Арміі. Канчаткова дэмабілізаваўшыся (маёр запаса), працаваў літаратурным супрацоўнікам, літаратурным кансультантам газеты «Гродзенская праўда» (1956—72). Член Саюза пісьменнікаў СССР з 1959. Выступаў як журналіст. У 1978-м пераехаў на сталае жыццё ў Мінск. 3 гэтага часу займаўся выключна творчай працай. Выбіраўся дэпутатам Вярхоўнага Савета БССР (1978—89). Народны дэпутат СССР (1989). У пачатку 1998 года Васіль Быкаў на запрашэнне Фінскага ПЭН-цэнтра вырашыў пажыць у Фінляндыі, куды і пераехаў разам з жонкай у чэрвені таго ж года. Памёр 22 чэрвеня 2003 года ў 20 гадзін 30 хвілін у рэанімацыйным аддзяленні анкалагічнага шпіталю ў Бараўлянах, пад Мінскам.",
+        "gallery": [
+          "/media/bykov/bykov-1.jpg",
+          "/media/bykov/bykov-2.jpg",
+          "/media/bykov/bykov-3.jpg",
+          "/media/bykov/bykov-4.jpg",
+          "/media/bykov/bykov-5.jpg",
+          "/media/bykov/bykov-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1924",
@@ -994,7 +1039,7 @@
           "ballonContent": "Большинство произведений Василь Быков создал здесь"
         }
       },
-      "Кандрат Крапіва": {
+      "Кондрат Крапива": {
         "name": "Кандрат Крапіва",
         "image": "/media/krapiva/portret.jpg",
         "years": "1896—1991",
@@ -1002,6 +1047,14 @@
         "description": "сапр.: Кандрат Кандратавіч Атраховіч (5 сакавіка 1896, в. Нізок, цяпер Уздзенскі раён — 7 студзеня 1991, Мінск) — беларускі пісьменнік, паэт, сатырык, драматург, перакладчык, грамадскі дзеяч, літаратуразнавец.",
         "youtube": "https://www.youtube.com/watch?v=BjxiKxV32_w",
         "about": "Нарадзіўся 22 лютага (5 сакавіка) 1896 год у вёсцы Нізок (цяпер Уздзенскі раён Мінскай вобласці Рэспублікі Беларусь) у сялянскай сям'і. Вучыўся ў царкоўна-прыходскай школе ў роднай вёсцы, Уздзенскім народным вучылішчы, 4х-класавым гарадскім вучылішчы горада Стоўбцы, з якога перавёўся ў вучылішча Койданава (цяпер Дзяржынск). Творчая біяграфія Кандрата Крапівы пачалася ў 1922 годзе з публікацыі яго першага друкаванага твора, фельетона ў вершах 'Жылі-былі', апублікаванага ў газеце 'Комсомольская правда'. 23 мая 1922 года ў майскім нумары газеты 'Савецкая Беларусь' з'явіўся першым беларускамоўнае сатырычны верш 'Сваты'. У прадмове да апошняй прыжыццёвай кнізе Кандрата Крапівы 'Калючы строй', якая выйшла ў 1989 годзе ў выдавецтве 'Мастацкая літаратура', вядомы беларускі пісьменнік і літаратуразнаўца Іван Навуменка пісаў: 'Калі б Кандрат Крапіва нават не напісаў сваіх драм і сатырычных камедый, рамана' Мядзведзічы ', то аднымі толькі сваімі байкамі, сатырычнымі вершамі ён заняў бы адно з першых месцаў у беларускай літаратуры'. І крыху ніжэй растлумачыў: 'Гэта такі згустак вострага народнага розуму, Паражальны смеху, абсьмейваньня зла і зацвярджэння дабра, якіх да Крапівы не ведала беларуская літаратура'.",
+        "gallery": [
+          "/media/krapiva/krapiva-1.jpg",
+          "/media/krapiva/krapiva-2.jpg",
+          "/media/krapiva/krapiva-3.jpg",
+          "/media/krapiva/krapiva-4.jpg",
+          "/media/krapiva/krapiva-5.jpg",
+          "/media/krapiva/krapiva-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1896",
@@ -1051,7 +1104,7 @@
           "ballonContent": "Большинство произведений Кондрат Крапива создал здесь"
         }
       },
-      "Вінцэнт Дунін-Марцінкевіч": {
+      "Викентий Дунин-Марцинкевич": {
         "name": "Вінцэнт Дунін-Марцінкевіч",
         "image": "/media/dunin-martsinkevich/portret.jpg",
         "years": "1808—1884",
@@ -1059,6 +1112,12 @@
         "description": "Беларускі празаік, паэт, драматург, тэатральны крытык. Заснавальнік нацыянальнай драматургіі, тэатра, першы класік новай беларускай літаратуры.",
         "youtube": "https://www.youtube.com/watch?v=NzDAnbltnPA",
         "about": "Нарадзіўся Вінцэнт (Вікенцій Іванавіч) Дунін-Марцінкевіч (у метрыцы аб нараджэнні няма придомка Дунін, ні ў бацькоў, ні ў хроснай - роднай сястры Юльянам, а сам немаўля быў ахрышчаны падвойным імем Вінцэнт-Якуб) 4 лютага 1808 года ў фальварку Панюшковичи Бабруйскага павета Мінскай губерні ў шляхецкай сям'і. Пасля заканчэння Бабруйскага павятовага вучылішча і Віленскай бызыліянскія бурсы паступіў на медыцынскі факультэт Пецярбургскага (па іншых звестках Віленскага) універсітэта, але вымушаны быў перапыніць вучобу з-за хваробы. Звесткі аб усіх этапах адукацыі не пацвярджаюцца ніякімі архіўнымі дакументамі, а вядомыя толькі па няпэўных біяграфіях Марцінкевіча. У фармулярныя спісе пра службу ніякіх дадзеных аб атрыманай адукацыі няма. Хутчэй за ўсё, яно было хатнім. Пісаў на польскай і беларускай мове. У цэнтры яго мастацкіх замалёвак стаіць беларуская вёска, яе побыт. Асаблівая ўвага надаецца беларускаму фальклору. Паэт маляўніча прайгравае беларускія абрады (купальская ноч, дажынкі, 'дзяды', вяселле). Для творчасці В. Дуніна-Марцінкевіча характэрныя элементы сентыменталізм.",
+        "gallery": [
+          "/media/dunin-martsinkevich/dunin-martsinkevich-1.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-2.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-3.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-4.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1835-1836",
@@ -1100,6 +1159,15 @@
         "description": "Беларускі савецкі пісьменнік і перакладчык",
         "youtube": "https://www.youtube.com/watch?v=Ci1yzGPisVA",
         "about": "Беларускі савецкі пісьменнік і перакладчык. Народны пісьменнік Беларускай ССР (1981). Лаўрэат Сталінскай прэміі трэцяй ступені (1952). Лаўрэат Дзяржаўнай прэміі Беларускай ССР імя Якуба Коласа (1982).",
+        "gallery": [
+          "/media/bril/bril-1.jpg",
+          "/media/bril/bril-2.jpg",
+          "/media/bril/bril-3.jpg",
+          "/media/bril/bril-4.jpg",
+          "/media/bril/bril-5.jpg",
+          "/media/bril/bril-6.jpg",
+          "/media/bril/bril-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1917 - 1938",
@@ -1147,7 +1215,7 @@
       }
     },
     "autors": {
-      "Ivan Melezh": {
+      "Иван Мележ": {
         "name": "Ivan Melezh",
         "image": "/media/melezh/portret.jpg",
         "years": "1921-1976",
@@ -1155,6 +1223,14 @@
         "description": "A Belarussian prose writer, playwright and publicistic",
         "youtube": "https://www.youtube.com/watch?v=I-0ezESiCCw",
         "about": "Was born into a peasant family in the village of Hlinischy, Homel region, on February 8, 1921. In 1939 he began his studies at the Moscow Institute of History, Philosophy and Literature, and during his first year he was called up to the Army. From the very outset of the WWII he was at the front. After being hospitalised for a serious wound, he was sent back to the rear. In 1945 he graduated from the philological faculty of the Belarusian State University in Minsk. He subsequently taught in the university and worked on the journal Polymia; for many years he headed the Belarusian Writers' Union and was chairman of the Belarusian branch of the USSR-France Society.  His poetry was first published in 1939, and his prose in 1943. He is the author of the well-known novels The Minsk Line of Advance, People on the Marsh, The Storm's Breath and Snowstorm in December. The last three novels comprise an epic trilogy entitled The Palesse Chronicle, which portrays the life of a Palessian village and their release became a notable event in the history of Belarusian literature. He is also the author of many collections of novellas and short stories.  Melezh was a 'People's Writer' (1972), Lenin Literary Prize winner (1972), a National Literary Prize winner (1976) and Yakub Kolas Literary Prize winner (1962).",
+        "gallery": [
+          "/media/melezh/melezh-1.jpg",
+          "/media/melezh/melezh-2.jpg",
+          "/media/melezh/melezh-3.jpg",
+          "/media/melezh/melezh-4.jpg",
+          "/media/melezh/melezh-5.jpg",
+          "/media/melezh/melezh-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1939",
@@ -1195,7 +1271,7 @@
           "ballonContent": "Most of the works Ivan Melezh created here"
         }
       },
-      "Yanka Kupala": {
+      "Янка Купала": {
         "name": "Yanka Kupala",
         "image": "/media/kupala/portret.jpg",
         "years": "1882-1942",
@@ -1203,6 +1279,16 @@
         "description": "A Belarusian poet and writer. Kupala is considered one of the greatest Belarusian-language writers of the 20th century.",
         "youtube": "https://www.youtube.com/watch?v=9FZehV2qJTk",
         "about": "Yanka KUPALA, the classic writer of Belarusian and world literature, one of the founders of modern Belarusian literature and literary Belarusian language, People's Poet of Belarus, the spiritual and moral leader of national rebirth in Belarus. A poet, playwright, publicist, translator, and public figure.",
+        "gallery": [
+          "/media/kupala/kupala-1.jpg",
+          "/media/kupala/kupala-2.jpg",
+          "/media/kupala/kupala-3.jpg",
+          "/media/kupala/kupala-4.jpg",
+          "/media/kupala/kupala-5.jpg",
+          "/media/kupala/kupala-6.jpg",
+          "/media/kupala/kupala-7.jpg",
+          "/media/kupala/kupala-8.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1882",
@@ -1245,7 +1331,7 @@
           "ballonContent": "Most of the works Yanka Kupala created here"
         }
       },
-      "Vladimir Korotkevich": {
+      "Владимир Короткевич": {
         "name": "Vladimir Korotkevich",
         "image": "/media/korotkevich/portret.jpg",
         "years": "1930 - 1984",
@@ -1253,6 +1339,18 @@
         "description": "Belarusian Soviet writer, poet, playwright, screenwriter and publicist, classic of Belarusian literature",
         "youtube": "https://www.youtube.com/watch?v=TOBB80OpIRI",
         "about": "Vladimir Semenovich Korotkevich - Belarusian Soviet writer, poet, playwright, screenwriter and publicist, a classic of Belarusian literature. Is one of the most prominent figures in the Belarusian literature of the XX century. He became the first Belarusian writer who turned to the genre of historical detective. The work of Vladimir Korotkevich is notable for his romantic orientation, high artistic culture, patriotic pathos and humanistic sound. The writer significantly enriched the Belarusian literature in thematic and genre relations, filled it with intellectual and philosophical content. The most famous works by the author include the stories “The Wild Hunt of King Stach”, “The Gray Legend”, the novels “Spikes under Your Sickle”, “Christ Has Landed in Grodno”, “Black Castle Olshansky”, the essay “Land Under White Wings”.",
+        "gallery": [
+          "/media/korotkevich/korotkevich-1.jpg",
+          "/media/korotkevich/korotkevich-2.jpg",
+          "/media/korotkevich/korotkevich-3.jpg",
+          "/media/korotkevich/korotkevich-4.jpg",
+          "/media/korotkevich/korotkevich-5.jpg",
+          "/media/korotkevich/korotkevich-6.jpg",
+          "/media/korotkevich/korotkevich-7.jpg",
+          "/media/korotkevich/korotkevich-8.jpg",
+          "/media/korotkevich/korotkevich-9.jpg",
+          "/media/korotkevich/korotkevich-10.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1930 – 1944",
@@ -1296,7 +1394,7 @@
           "ballonContent": "Most of the works Vladimir Korotkevich created here"
         }
       },
-      "Ryhor Baradulin": {
+      "Рыгор Бородулин": {
         "name": "Ryhor Baradulin",
         "image": "/media/baradulin/portret.jpg",
         "years": "1935 - 2014",
@@ -1304,6 +1402,15 @@
         "description": "Belarusian poet, essayist and translator",
         "youtube": "https://www.youtube.com/watch?v=kuaJLU71W10",
         "about": "Baradulin was the last Belarusian who received the title of the People's Poet. He received some other important awards for several books of poems and translations. He started publishing his works in 1953. In 2006, Baradulin was nominated for the Nobel Prize in Literature for his book of poems called Ksty.",
+        "gallery": [
+          "/media/baradulin/baradulin-1.jpg",
+          "/media/baradulin/baradulin-2.jpg",
+          "/media/baradulin/baradulin-3.jpg",
+          "/media/baradulin/baradulin-4.jpg",
+          "/media/baradulin/baradulin-5.jpg",
+          "/media/baradulin/baradulin-6.jpg",
+          "/media/baradulin/baradulin-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1935 – 2014",
@@ -1343,7 +1450,7 @@
           "ballonContent": "Most of the works Ryhor Baradulin created here"
         }
       },
-      "Yakub Kolas": {
+      "Якуб Колас": {
         "name": "Yakub Kolas",
         "image": "/media/kolas/portret.jpg",
         "years": "1882 -1956",
@@ -1351,6 +1458,17 @@
         "description": "Present name and surname Konstantin Mikhailovich Mitskevich. Belarusian Soviet writer, poet and translator",
         "youtube": "https://www.youtube.com/watch?v=HxFeWGZspJQ",
         "about": "Yakub Kolas made a significant contribution to national and world literature. His works have been translated into more than 40 languages of the world. His most important achievements are: expanding the genre capabilities of Belarusian literature, enriching national poetry with philosophical and landscape lyrics, combining lyrics and epics, laying the foundations of the Belarusian novel and Belarusian children's literature, establishing the norms of the Belarusian literary language",
+        "gallery": [
+          "/media/kolas/kolas-1.jpg",
+          "/media/kolas/kolas-2.jpg",
+          "/media/kolas/kolas-3.jpg",
+          "/media/kolas/kolas-4.jpg",
+          "/media/kolas/kolas-5.jpg",
+          "/media/kolas/kolas-6.jpg",
+          "/media/kolas/kolas-7.jpg",
+          "/media/kolas/kolas-8.jpg",
+          "/media/kolas/kolas-9.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1882",
@@ -1401,6 +1519,15 @@
         "description": "Real name Jaŭhien Skurko. Was a Belarusian Soviet journalist, poet and translator",
         "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
         "about": "Maxim Tank is a Belarusian poet, translator, statesman. People’s poet of the Byelorussian SSR. Hero of Socialist Labor. Laureate of the Lenin and Stalin Prize of the second degree.",
+        "gallery": [
+          "/media/tank/tank-1.jpg",
+          "/media/tank/tank-2.jpg",
+          "/media/tank/tank-3.jpg",
+          "/media/tank/tank-4.jpg",
+          "/media/tank/tank-5.jpg",
+          "/media/tank/tank-6.jpg",
+          "/media/tank/tank-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1912",
@@ -1442,7 +1569,7 @@
           "ballonContent": "Most of the works of Maxim Tank created here"
         }
       },
-      "Vasil Bykov": {
+      "Василь Быков": {
         "name": "Vasil Bykov",
         "image": "/media/bykov/portret.jpg",
         "years": "1924-2003",
@@ -1450,6 +1577,14 @@
         "description": "Vasil Vladimirovich Bykov - Soviet and Belarusian writer, public figure, participant of the Great Patriotic War. Member of the Union of Writers of the USSR.",
         "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
         "about": "Born on June 19, 1924 in the village of Bychki, Ushachsky District, Vitebsk Region, into a peasant family. He graduated from the 8th grade school in the village of Kublichi, then studied at the sculpture department of the Vitebsk Art School (1939-1940), which he left due to the cancellation of scholarships, and at the FZO school (until May 1941). The war found him in Ukraine, where he participated in defense works. In the autumn of 1943 he was promoted to junior lieutenant. He participated in the battles for Krivoy Rog, Alexandria, Znamenka. After demobilization he lived in Grodno (since 1947). It was printed since 1947, he worked in workshops, as well as in the editorial office of the regional newspaper “Grodno truth” (until 1949). In the period from 1949 to 1955 he served again in the Soviet army, in 1955, he was completely discharged as a major. From 1955 to 1972 he worked again in the “Grodno truth”. In 1978 he moved to Minsk. He was elected deputy of the Supreme Soviet of the Byelorussian SSR in 1978-1989. From the end of 1997 he lived abroad in political exile. He died on June 22, 2003 at 8.30 pm from a malignant stomach tumor in the intensive care unit of the oncology hospital in Borovlyany, near Minsk.",
+        "gallery": [
+          "/media/bykov/bykov-1.jpg",
+          "/media/bykov/bykov-2.jpg",
+          "/media/bykov/bykov-3.jpg",
+          "/media/bykov/bykov-4.jpg",
+          "/media/bykov/bykov-5.jpg",
+          "/media/bykov/bykov-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1924",
@@ -1503,7 +1638,7 @@
           "ballonContent": "Большинство произведений Василь Быков создал здесь"
         }
       },
-      "Kondrat Krapiva": {
+      "Кондрат Крапива": {
         "name": "Kondrat Krapiva",
         "image": "/media/krapiva/portret.jpg",
         "years": "1896—1991",
@@ -1511,6 +1646,14 @@
         "description": "The real name is Kondrat Kondratovich Atrakhovich - Belarusian Soviet writer, poet, playwright and translator, literary critic, satirist, social activist. Doctor of Philology, Academician of the Academy of Sciences of the Byelorussian SSR (1950). Member of the CPSU (b) since 1941",
         "youtube": "https://www.youtube.com/watch?v=BjxiKxV32_w",
         "about": "Born on February 22 (March 5) in 1896 in the village of Nizk (now Uzda district of the Minsk region of the Republic of Belarus) in a peasant family. He studied at the parochial school in his native village, Uzda national school, 4-class city school of the city of Stolbtsy, from which he transferred to the Koydanovo school (now Derzhinsk). The creative biography of Kondrat Krapiva began in 1922 with the publication of his first printed work, feuilleton in verses 'Once upon a time', published in the newspaper 'Komsomolskaya Pravda'. On May 23, 1922, the first Belarusian-language satirical poem 'Swat' appeared in the May issue of the newspaper 'Savetskaya Belarus'. In the preface to the last lifetime book of Kondrat Krapiva 'The Prickly System', published in 1989 in the publishing house 'Mastatskaya Litaratura', famous Belarusian writer and literary critic Ivan Naumenko wrote: 'If Kondrat Krapiva hadn’t even written his dramas and satirical comedies, the novel' Medvedichi 'then with his fables alone, satirical poems he would occupy one of the first places in Belarusian literature.' And just below he explained: 'This is such a clot of acute people's minds, smiting laughter, ridicule of evil, and the approval of good, which Belarusian literature did not know before Krapiva.'",
+        "gallery": [
+          "/media/krapiva/krapiva-1.jpg",
+          "/media/krapiva/krapiva-2.jpg",
+          "/media/krapiva/krapiva-3.jpg",
+          "/media/krapiva/krapiva-4.jpg",
+          "/media/krapiva/krapiva-5.jpg",
+          "/media/krapiva/krapiva-6.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1896",
@@ -1560,7 +1703,7 @@
           "ballonContent": "Most of the works of Kondrat Nettle created here"
         }
       },
-      "Vikentiy Dunin-Martsinkevich": {
+      "Викентий Дунин-Марцинкевич": {
         "name": "Vikentiy Dunin-Martsinkevich",
         "image": "/media/dunin-martsinkevich/portret.jpg",
         "years": "1808—1884",
@@ -1568,6 +1711,12 @@
         "description": "Belarusian writer and playwright, classic of Belarusian literature. For a long time, he was mistakenly considered the nephew of the Metropolitan of the Roman Catholic Church of the Russian Empire, Stanislav Bogush-Sestrentsevich. In fact, he was not related to him by blood.",
         "youtube": "https://www.youtube.com/watch?v=NzDAnbltnPA",
         "about": "Vincent (Vikentiy Ivanovich) Dunin-Martsinkevich was born (there is no Dunin as an apparition in the birth metric, neither parents nor the godmother - Julianna's sister, and the baby was baptized with the double name Vincent-Yakub) on February 4, 1808 in folkart Panyushkovichi Bobruisk povet Minsk province in the gentry family. After graduating from the Bobruisk Povetovy School and the Vilna Basilian Bursa, he entered the Medical Faculty of St. Petersburg (according to other information from Vilna University), but was forced to interrupt his studies due to illness. Information about all stages of education is not supported by any archival documents, but is known only from unreliable biographies of Martsinkevich. There is no education in the service list. Most likely, it was home. He wrote in Polish and Belarusian. In the center of his artistic sketches is the Belarusian village, its life. Particular attention is paid to the Belarusian folklore. The poet colorfully reproduces the Belarusian rituals (Kupala night, dozhinki, 'dzyady', wedding). Elements of sentimentalism are characteristic of the work of V. Dunin-Martsinkevich.",
+        "gallery": [
+          "/media/dunin-martsinkevich/dunin-martsinkevich-1.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-2.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-3.jpg",
+          "/media/dunin-martsinkevich/dunin-martsinkevich-4.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1835-1836",
@@ -1609,6 +1758,15 @@
         "description": "Belarusian Soviet writer and translator",
         "youtube": "https://www.youtube.com/watch?v=Ci1yzGPisVA",
         "about": "Belarusian Soviet writer and translator. People's Writer of the Byelorussian SSR (1981). Winner of the Stalin Prize of the third degree (1952). Winner of the State Prize of the Byelorussian SSR named after Yakub Kolas (1982).",
+        "gallery": [
+          "/media/bril/bril-1.jpg",
+          "/media/bril/bril-2.jpg",
+          "/media/bril/bril-3.jpg",
+          "/media/bril/bril-4.jpg",
+          "/media/bril/bril-5.jpg",
+          "/media/bril/bril-6.jpg",
+          "/media/bril/bril-7.jpg"
+        ],
         "biography": {
           "firstLine": {
             "dataTime": "1917 - 1938",

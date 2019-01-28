@@ -8,30 +8,29 @@ import Youtube from '../../components/video/youtube';
 
 
 export default class Author extends Component {
-  getListingBooks = () => data[this.props.lang].autors[this.props.testName].productList.map((e, i) => {
+  getListingBooks = () => data[this.props.lang].autors[this.props.authorName].productList.map((e, i) => {
     return <li key={i}>{e}</li>
   })
   
   render() {
-    console.log('lang', data[this.props.lang])
     return (
       <>
       <section className="about-author">
         <img 
-          src={process.env.PUBLIC_URL + (data[this.props.lang].autors[this.props.testName].image)}
-          alt={data[this.props.lang].autors[this.props.testName].name}
+          src={process.env.PUBLIC_URL + (data[this.props.lang].autors[this.props.authorName].image)}
+          alt={data[this.props.lang].autors[this.props.authorName].name}
           width="200"
           height="200"
         />
-        <p className="about-author-text">{data[this.props.lang].autors[this.props.testName].about}</p>
+        <p className="about-author-text">{data[this.props.lang].autors[this.props.authorName].about}</p>
       </section>
-      <BiographyTimeLine lang={this.props.lang} autorName={this.props.testName}/>
+      <BiographyTimeLine lang={this.props.lang} autorName={this.props.authorName}/>
       <ul>
         {this.getListingBooks()}
       </ul>
-      <Gallery autorName={this.props.testName}/>
-      <Youtube lang={this.props.lang} autorName={this.props.testName}/>
-      <YandexMap lang={this.props.lang} autorName={this.props.testName}/>
+      <Gallery lang={this.props.lang} autorName={this.props.authorName}/>
+      <Youtube lang={this.props.lang} autorName={this.props.authorName}/>
+      <YandexMap lang={this.props.lang} autorName={this.props.authorName}/>
       </>
     )
   }

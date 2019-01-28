@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import * as _ from "lodash";
 import "./App.scss";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Data from "./codejam5.json";
+import Data from "./data.json";
 import English from "./england.jpg";
 import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
@@ -23,10 +23,7 @@ const Autor = props => {
     return (
       <AutorPage
         lang={props.lang}
-        AuthorName={props.AuthorName}
-        testName={props.name}
-        localName={props.localName}
-        localLang={props.localLang}
+        authorName={props.name}
       />
     );
   };
@@ -107,11 +104,6 @@ class App extends Component {
                     {menuItems[1]}
                   </Link>
                 </li>
-                {/* <li className="nav-item">
-                  <Link to={"/autor"} className="nav-link" onClick={this.testFun}>
-                    {menuItems[3]}
-                  </Link>
-                </li> */}
               </ul>
               <div className="switchLang" onClick={this.switchLanguage}>
                 <img id="ru" width="30" src={Russian} alt="russian" />
