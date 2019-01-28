@@ -11,9 +11,11 @@
   background-image: url(./bel-mir.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: 2px 2px 10px gray;
   @media screen and (max-width: 640px) {
     padding-top: 0;
     background-image: none;
+    
   }
 
   h1,
