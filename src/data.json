@@ -794,8 +794,8 @@
         ],
         "geoMark": {
           "coordinates": [
-            30.417883,
-            54.510122
+            54.510122,
+            30.417883
           ],
           "iconContent": "Асноўнае месца працы",
           "ballonContent": "Большинство произведений Уладзімір Караткевіч создал здесь"
@@ -1396,8 +1396,8 @@
         ],
         "geoMark": {
           "coordinates": [
-            30.417883,
-            54.510122
+            54.510122,
+            30.417883
           ],
           "iconContent": "Main place of work",
           "ballonContent": "Most of the works Vladimir Korotkevich created here"
