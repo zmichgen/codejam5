@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "092a527a4c0bb70caba247c89d4ed9cf",
-    "url": "/codejam5/static/media/mdgh.092a527a.jpg"
+    "revision": "955bb514baf4d06ad595f9e725791acf",
+    "url": "/codejam5/static/media/zmichgen.955bb514.jpg"
   },
   {
-    "revision": "0628ea96750bdbe25fde",
-    "url": "/codejam5/static/css/main.15f8c954.chunk.css"
+    "revision": "717af0109a2e12f5b9a9",
+    "url": "/codejam5/static/css/main.c1860104.chunk.css"
   },
   {
     "revision": "57fa50a30627409554b3",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/codejam5/static/media/meleg.d29aa5d8.jpg"
   },
   {
-    "revision": "e0a644721d520d05b9da",
-    "url": "/codejam5/static/js/6.e0a64472.chunk.js"
+    "revision": "fba9f95bca44527bf41e",
+    "url": "/codejam5/static/js/6.fba9f95b.chunk.js"
   },
   {
     "revision": "2bd72a670059229abbc3",
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/codejam5/static/media/nefont.05be004b.ttf"
   },
   {
-    "revision": "0628ea96750bdbe25fde",
-    "url": "/codejam5/static/js/main.0628ea96.chunk.js"
+    "revision": "717af0109a2e12f5b9a9",
+    "url": "/codejam5/static/js/main.717af010.chunk.js"
   },
   {
-    "revision": "955bb514baf4d06ad595f9e725791acf",
-    "url": "/codejam5/static/media/zmichgen.955bb514.jpg"
-  },
-  {
-    "revision": "c26d5d2a83c5ccacfe6487c4662852a0",
-    "url": "/codejam5/static/media/zerovers.c26d5d2a.jpg"
+    "revision": "092a527a4c0bb70caba247c89d4ed9cf",
+    "url": "/codejam5/static/media/mdgh.092a527a.jpg"
   },
   {
     "revision": "89a2695186b71e7e692ac9062f0fbdfd",
     "url": "/codejam5/static/media/gaddyya.89a26951.jpg"
+  },
+  {
+    "revision": "c26d5d2a83c5ccacfe6487c4662852a0",
+    "url": "/codejam5/static/media/zerovers.c26d5d2a.jpg"
   },
   {
     "revision": "c4666684c815cf3540a7048cd03733b3",
@@ -88,11 +88,11 @@ self.__precacheManifest = [
     "url": "/codejam5/static/media/kupala.48046013.jpg"
   },
   {
-    "revision": "e0a644721d520d05b9da",
-    "url": "/codejam5/static/css/6.37efd415.chunk.css"
+    "revision": "fba9f95bca44527bf41e",
+    "url": "/codejam5/static/css/6.ebbf6492.chunk.css"
   },
   {
-    "revision": "6f36980e797c8ed812d35caf47f75766",
+    "revision": "cf98f250d20f2a001ec65c1ce7c2b00f",
     "url": "/codejam5/index.html"
   }
 ];
