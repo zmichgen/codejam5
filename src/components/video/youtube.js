@@ -1,7 +1,7 @@
-import React from "react";
-import BigPicture from "react-bigpicture";
-import data from "../../data.json";
-import "./index.css";
+import React from 'react';
+import BigPicture from 'react-bigpicture';
+import data from '../../data.json';
+import './index.css';
 
 export default class Youtube extends React.Component {
   render() {
@@ -10,7 +10,7 @@ export default class Youtube extends React.Component {
       .pop();
     const tumbnail = `https://img.youtube.com/vi/${videoId}/0.jpg`;
     return (
-      <div className='youtube-video'>
+      <div className="youtube-video">
         <BigPicture
           type="youtube"
           caption="Example of an optional caption."

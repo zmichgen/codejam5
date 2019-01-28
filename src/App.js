@@ -1,14 +1,14 @@
-import React, { Component } from "react";
-import * as _ from "lodash";
-import "./App.scss";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Data from "./data.json";
-import English from "./england.jpg";
-import Russian from "./russia.jpg";
-import Belarus from "./belarus.jpg";
-import MainPage from "./screens/main/main";
-import AutorPage from "./screens/author/index";
-import SearchList from "./screens/search/search-list";
+import React, { Component } from 'react';
+import * as _ from 'lodash';
+import './App.scss';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import Data from './data.json';
+import English from './england.jpg';
+import Russian from './russia.jpg';
+import Belarus from './belarus.jpg';
+import MainPage from './screens/main/main';
+import AutorPage from './screens/author/index';
+import SearchList from './screens/search/search-list';
 
 const Search = (props, fun) => {
   return () => {
@@ -20,12 +20,7 @@ const Search = (props, fun) => {
 
 const Autor = props => {
   return () => {
-    return (
-      <AutorPage
-        lang={props.lang}
-        authorName={props.name}
-      />
-    );
+    return <AutorPage lang={props.lang} authorName={props.name} />;
   };
 };
 
@@ -45,8 +40,8 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      lang: "ru",
-      newName: localStorage.getItem("name")
+      lang: 'ru',
+      newName: localStorage.getItem('name')
     };
   }
 
@@ -95,12 +90,12 @@ class App extends Component {
             >
               <ul className="navbar-nav mr-auto">
                 <li className="nav-item">
-                  <Link to={"/home"} className="nav-link">
+                  <Link to={'/home'} className="nav-link">
                     {menuItems[0]}
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link to={"/search"} className="nav-link">
+                  <Link to={'/search'} className="nav-link">
                     {menuItems[1]}
                   </Link>
                 </li>

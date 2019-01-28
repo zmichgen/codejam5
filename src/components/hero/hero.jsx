@@ -1,6 +1,6 @@
-import React from "react";
-import Data from "../../data.json";
-import "./hero.scss";
+import React from 'react';
+import Data from '../../data.json';
+import './hero.scss';
 
 class Hero extends React.Component {
   constructor(props) {
@@ -9,9 +9,8 @@ class Hero extends React.Component {
     this.hero = props.authorName;
     this.data = Data[this.lang].autors[props.authorName];
     this.name = this.data.image;
-    console.log(this.name);
   }
-//use common 
+
   render() {
     return (
       <div className="hero">
