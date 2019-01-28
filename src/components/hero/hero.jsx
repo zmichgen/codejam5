@@ -1,5 +1,5 @@
 import React from "react";
-import Data from "../../data.json";
+import Data from "../../codejam5.json";
 import "./hero.scss";
 
 const getImage = async imageName => {
