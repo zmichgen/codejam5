@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'fontello';
+  src: url(./font/fontello.woff?65828203);
+  font-weight: normal;
+  font-style: normal;
+}
+
+.developers-title {
+  text-align: center;
+  border-bottom: 1px solid #e1dedb;
+  padding: 10px 0;
+}
+
+.developers-title:last-child {
+  margin-top: 10px;
+  border-top: 1px solid #e1dedb;
+}
+  
+.developers {
+  display: flex;
+  width: 100%;  
+  margin-top: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.developers-teammate {
+  display: flex;
+  justify-content: space-between;  
+  flex-direction: row;  
+  margin: 15px;
+  font-family: josefin;
+  line-height: 1.2;
+  background-color: #f8f4f0;;
+  border-radius: 15px;
+  flex-basis: 250px;
+  border: 1px solid #e1dedb;
+  box-shadow: 0 0 5px rgba(33, 0, 87, 0.5);
+}
+
+.teammate-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 20px;   
+  font-family: josefin bold;
+  line-height: 1.5;
+}
+
+.noselect {
+  -moz-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none;
+}
+
+.developers-teammate:nth-child(1) .teammate-foto {
+  background: url(./img/mdgh.jpg);
+  background-size: contain;
+}
+  
+.developers-teammate:nth-child(2) .teammate-foto {
+  background: url(./img/gaddyya.jpg);
+  background-size: contain;
+}
+
+.developers-teammate:nth-child(3) .teammate-foto {
+  background: url(./img/zmichgen.jpg);
+  background-size: contain;
+}
+
+.developers-teammate:nth-child(4) .teammate-foto {
+  background: url(./img/zerovers.jpg);
+  background-size: contain;
+}
+
+.developers-teammate:nth-child(5) .teammate-foto {
+  background: url(./img/renardby.png);
+  background-size: contain;
+}
+
+.teammate-foto {
+  width: 150px;
+  height: 150px;
+  margin: 10px 0;    
+  border-radius: 50%;
+  border: 4px solid #141414;
+}
+
+.linked-icon {
+  display: inline-block;
+  width: 1em;
+  margin: 0 .2em;  
+  font-family: "Fontello", Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal; 
+  text-decoration: inherit;
+  text-align: center;   
+  text-transform: none;
+  line-height: 1em;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+  
+.linked-icon:hover {
+  color: #e5194c;
+}
+
+
+body {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  
+}
+
+
