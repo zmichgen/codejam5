@@ -1,1 +1,0 @@
-{"version":3,"sources":["images/portraits/kupala.jpg"],"names":["module","exports","__webpack_require__","p"],"mappings":"4EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"static/js/4.377b58f3.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/kupala.48046013.jpg\";"],"sourceRoot":""}
