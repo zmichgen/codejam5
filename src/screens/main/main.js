@@ -13,7 +13,8 @@ class Main extends React.Component {
           <Hero lang={this.props.lang} authorName={this.props.authorName}/>
           <InfoBlock lang={this.props}/>
         </div>
-          <div className="dreamTeam">  
+          <div className="dreamTeam">
+          <Team lang={this.props.lang}/> 
         </div>
       </div>   
     );
