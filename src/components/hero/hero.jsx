@@ -34,7 +34,7 @@ class Hero extends React.Component {
         <div>
           <img src={portret} alt="portret" />
         </div>
-        <div>
+        <div className="title">
           <h3>{this.hero}</h3>
           <p>{this.data.years}</p>
           <p>{this.data.description}</p>
