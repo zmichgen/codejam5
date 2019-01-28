@@ -114,15 +114,9 @@ class App extends Component {
                 </li> */}
               </ul>
               <div className="switchLang" onClick={this.switchLanguage}>
-                <button>
-                  <img id="ru" width="30" src={Russian} alt="russian" />
-                </button>
-                <button>
-                  <img id="by" width="30" src={Belarus} alt="russian" />
-                </button>
-                <button>
-                  <img id="en" width="30" src={English} alt="russian" />
-                </button>
+                <img id="ru" width="30" src={Russian} alt="russian" />
+                <img id="by" width="30" src={Belarus} alt="belorussian" />
+                <img id="en" width="30" src={English} alt="english" />
               </div>
             </div>
           </nav>
