@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from '../../components/hero/hero';
 import InfoBlock from '../../components/about/about';
+import Team from '../../components/team/team';
 import './main.scss';
 
 class Main extends React.Component {
