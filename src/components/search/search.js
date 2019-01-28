@@ -26,11 +26,13 @@ class Search extends Component {
         <SearchInput className="search-input" onChange={this.searchUpdated} />
         <div className="authors-container" onClick={this.selectAuthor}>
         {filteredAuthors.map((item, index) => {
+          console.log(item)
           return (
             <Link key={index} to="/autor">
               <figure className="author-info" name={item[this.props.lang].name} key={item[this.props.lang].name}>
                 <img className="author-foto" src={process.env.PUBLIC_URL + (item[this.props.lang].image)} alt={item[this.props.lang].name}></img>
                 <figcaption className="author-name">{item[this.props.lang].name}</figcaption>
+                <p className="author-description">{item[this.props.lang].description}</p>
               </figure>
             </Link>
           )
@@ -46,8 +48,14 @@ class Search extends Component {
 
   selectAuthor = (e) => {
     const target = e.target;
-    this.props.selectName(target.parentElement.getAttribute("name"));
-    localStorage.setItem('name', target.parentElement.getAttribute("name"))
+
+    if (target.tagName === 'FIGURE') {
+      this.props.selectName(target.getAttribute("name"));
+      localStorage.setItem('name', target.getAttribute("name"))
+    } else {
+      this.props.selectName(target.parentElement.getAttribute("name"));
+      localStorage.setItem('name', target.parentElement.getAttribute("name"))
+    }
   }
 }
 
