@@ -1,14 +1,14 @@
-import React, { Component } from "react";
-import * as _ from "lodash";
-import "./App.scss";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Data from "./data.json";
-import English from "./england.jpg";
-import Russian from "./russia.jpg";
-import Belarus from "./belarus.jpg";
-import MainPage from "./screens/main/main";
-import AutorPage from "./screens/author/index";
-import SearchList from "./screens/search/search-list";
+import React, { Component } from 'react';
+import * as _ from 'lodash';
+import './App.scss';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import Data from './data.json';
+import English from './england.jpg';
+import Russian from './russia.jpg';
+import Belarus from './belarus.jpg';
+import MainPage from './screens/main/main';
+import AutorPage from './screens/author/index';
+import SearchList from './screens/search/search-list';
 
 const Search = (props, fun) => {
   return () => {
@@ -20,12 +20,7 @@ const Search = (props, fun) => {
 
 const Autor = props => {
   return () => {
-    return (
-      <AutorPage
-        lang={props.lang}
-        authorName={props.name}
-      />
-    );
+    return <AutorPage lang={props.lang} authorName={props.name} />;
   };
 };
 

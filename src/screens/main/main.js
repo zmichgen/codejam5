@@ -6,25 +6,20 @@ import Footer from '../../components/footer/footer';
 import './main.scss';
 
 class Main extends React.Component {
-  
   render() {
-    console.log(this.props);
     return (
       <div>
         <div className="portal">
-          <Hero lang={this.props.lang} authorName={this.props.authorName}/>
-          <InfoBlock lang={this.props.lang}/>
+          <Hero lang={this.props.lang} authorName={this.props.authorName} />
+          <InfoBlock lang={this.props.lang} />
         </div>
-          <div className="dreamTeam">
-          <Team lang={this.props.lang}/> 
+        <div className="dreamTeam">
+          <Team lang={this.props.lang} />
         </div>
-        <Footer/> 
+        <Footer />
       </div>
-      
     );
-
   }
-  
 }
 
 export default Main;

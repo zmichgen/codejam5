@@ -7,12 +7,14 @@ import YandexMap from '../../components/map/YandexMap';
 import Youtube from '../../components/video/youtube';
 import Footer from '../../components/footer/footer';
 
-
 export default class Author extends Component {
-  getListingBooks = () => data[this.props.lang].autors[this.props.authorName].productList.map((e, i) => {
-    return <li key={i}>{e}</li>
-  })
-  
+  getListingBooks = () =>
+    data[this.props.lang].autors[this.props.authorName].productList.map(
+      (e, i) => {
+        return <li key={i}>{e}</li>;
+      }
+    );
+
   render() {
     return (
       <>
@@ -40,6 +42,6 @@ export default class Author extends Component {
       <YandexMap lang={this.props.lang} autorName={this.props.authorName}/>
       <Footer />
       </>
-    )
+    );
   }
 }
