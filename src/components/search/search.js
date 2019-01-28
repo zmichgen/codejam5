@@ -16,7 +16,8 @@ class Search extends Component {
   render () {
     const authorsNameList = (Object.keys(authors[this.props.lang].autors)).map(i => {
       return {
-        [this.props.lang]: authors[this.props.lang].autors[i]
+        [this.props.lang]: authors[this.props.lang].autors[i],
+        key: i
       }
     });
     const KEYS_TO_FILTERS = [`${this.props.lang}.name`, `${this.props.lang}.years`, `${this.props.lang}.birthdayPlace`];
@@ -26,10 +27,9 @@ class Search extends Component {
         <SearchInput className="search-input" onChange={this.searchUpdated} />
         <div className="authors-container" onClick={this.selectAuthor}>
         {filteredAuthors.map((item, index) => {
-          console.log(item)
           return (
             <Link key={index} to="/autor">
-              <figure className="author-info" name={item[this.props.lang].name} key={item[this.props.lang].name}>
+              <figure className="author-info" name={item.key} key={item[this.props.lang].name}>
                 <img className="author-foto" src={process.env.PUBLIC_URL + (item[this.props.lang].image)} alt={item[this.props.lang].name}></img>
                 <figcaption className="author-name">{item[this.props.lang].name}</figcaption>
                 <p className="author-description">{item[this.props.lang].description}</p>
@@ -48,7 +48,6 @@ class Search extends Component {
 
   selectAuthor = (e) => {
     const target = e.target;
-
     if (target.tagName === 'FIGURE') {
       this.props.selectName(target.getAttribute("name"));
       localStorage.setItem('name', target.getAttribute("name"))

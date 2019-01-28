@@ -5,7 +5,7 @@ import './gallery.css';
 
 class Gallery extends Component {
   getImages() {
-    const images = (data.autors[this.props.autorName].gallery).map(item => {
+    const images = (data[this.props.lang].autors[this.props.autorName].gallery).map(item => {
       return {
         original: process.env.PUBLIC_URL + item, 
         thumbnail: process.env.PUBLIC_URL + item,
