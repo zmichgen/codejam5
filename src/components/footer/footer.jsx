@@ -3,7 +3,7 @@ import "./footer.scss";
 
 const Footer = props => {
     return (
-        <footer class="footer">
+        <footer className="footer">
             <p>© 2018 RSS Group 20</p>
         </footer>
   );

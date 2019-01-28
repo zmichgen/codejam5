@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './index.css';
-import data from '../../codejam5.json';
+import data from '../../data.json';
 import BiographyTimeLine from '../../components/timeline/biography-time-line';
 import Gallery from '../../components/gallery/gallery';
 import YandexMap from '../../components/map/YandexMap';
