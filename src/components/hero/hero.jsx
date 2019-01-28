@@ -11,7 +11,7 @@ class Hero extends React.Component {
     this.name = this.data.image;
     console.log(this.name);
   }
-
+//use common 
   render() {
     return (
       <div className="hero">
