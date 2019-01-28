@@ -45,7 +45,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      lang: "ru",
+      lang: localStorage.getItem('lang') || 'ru',
       newName: localStorage.getItem("name")
     };
   }
@@ -53,6 +53,7 @@ class App extends Component {
   switchLanguage = e => {
     const lang = e.target.id;
     if (lang) {
+      localStorage.setItem('lang', lang);
       this.setState({ lang: lang });
     }
   };
@@ -76,42 +77,44 @@ class App extends Component {
     return (
       <Router basename="/codejam5">
         <div className="wrapper">
-          <nav className="navbar navbar-expand-md navbar-light bg-light">
-            <p className="navbar-brand">{menuItems[2]}</p>
-            <button
-              className="navbar-toggler"
-              type="button"
-              data-toggle="collapse"
-              data-target="#navbarSupportedContent"
-              aria-controls="navbarSupportedContent"
-              aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
-              <span className="navbar-toggler-icon" />
-            </button>
-            <div
-              className="collapse navbar-collapse"
-              id="navbarSupportedContent"
-            >
-              <ul className="navbar-nav mr-auto">
-                <li className="nav-item">
-                  <Link to={"/home"} className="nav-link">
-                    {menuItems[0]}
-                  </Link>
-                </li>
-                <li className="nav-item">
-                  <Link to={"/search"} className="nav-link">
-                    {menuItems[1]}
-                  </Link>
-                </li>
-              </ul>
-              <div className="switchLang" onClick={this.switchLanguage}>
-                <img id="ru" width="30" src={Russian} alt="russian" />
-                <img id="by" width="30" src={Belarus} alt="belorussian" />
-                <img id="en" width="30" src={English} alt="english" />
+          <div className="wrapper-nav">
+            <nav className="navbar navbar-expand-md navbar-light bg-light">
+              <h1 className="navbar-brand">{menuItems[2]}</h1>
+              <button
+                className="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <span className="navbar-toggler-icon" />
+              </button>
+              <div
+                className="collapse navbar-collapse"
+                id="navbarSupportedContent"
+              >
+                <ul className="navbar-nav mr-auto">
+                  <li className="nav-item">
+                    <Link to={"/home"} className="nav-link">
+                      {menuItems[0]}
+                    </Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link to={"/search"} className="nav-link">
+                      {menuItems[1]}
+                    </Link>
+                  </li>
+                </ul>
+                <div className="switchLang" onClick={this.switchLanguage}>
+                  <img id="ru" width="30" src={Russian} alt="russian" />
+                  <img id="by" width="30" src={Belarus} alt="belorussian" />
+                  <img id="en" width="30" src={English} alt="english" />
+                </div>
               </div>
-            </div>
-          </nav>
+            </nav>
+          </div>
           <Switch>
             <Route exact path="/" component={mainPage} />
             <Route exact path="/home" component={mainPage} />

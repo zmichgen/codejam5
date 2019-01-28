@@ -28,11 +28,14 @@ class Search extends Component {
         <div className="authors-container" onClick={this.selectAuthor}>
         {filteredAuthors.map((item, index) => {
           return (
-            <Link key={index} to="/autor">
+            <Link className="author-link" key={index} to="/autor">
               <figure className="author-info" name={item.key} key={item[this.props.lang].name}>
                 <img className="author-foto" src={process.env.PUBLIC_URL + (item[this.props.lang].image)} alt={item[this.props.lang].name}></img>
                 <figcaption className="author-name">{item[this.props.lang].name}</figcaption>
-                <p className="author-description">{item[this.props.lang].description}</p>
+                <p 
+                  className="author-description">{item[this.props.lang].description}
+                </p>
+                <div className="text-fade"></div>
               </figure>
             </Link>
           )

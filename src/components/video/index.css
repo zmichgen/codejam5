@@ -1,12 +1,15 @@
 .youtube-video {
-  margin: 0px auto 0;
+  display: flex;
+  justify-content: center;
+  margin: 30px auto 0;
   padding: 35px;
-  background-color: rgb(226, 219, 131);
-  padding: 35px;
+  background: #2F2E2E;
 }
 
 .bigpicture.link.picture img {
+  min-width: 400px;
+  width: 100%;
+  margin: 0 auto;
   vertical-align: middle;
   border-style: none;
-  margin: 0 auto;
 }

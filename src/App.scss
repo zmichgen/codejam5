@@ -17,3 +17,26 @@
     }
   }
 }
+
+.wrapper-nav {
+  width: 100%;
+  background: #C8BFA0;
+}
+
+.navbar {
+  max-width: 1200px;
+  margin: auto;
+
+  h1 {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.navbar-nav {
+  font-size: 18px;
+  .nav-item {
+    padding-bottom: 0;
+    margin-left: 15px;
+  }
+}

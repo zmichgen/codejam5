@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Timeline, TimelineItem }  from 'vertical-timeline-component-for-react';
 import data from '../../data.json';
+import './timeline.css';
 
 const _ = require('lodash');
 
@@ -18,7 +19,7 @@ export default class BiographyTimeLine extends Component {
     return (<TimelineItem
       key={i}
       dateText={this.findAuthor(this.props.autorName).biography[e]["dataTime"]}
-      style={{ color: "#e86971" }}
+      style={{ color: "#F5CC5E" }}
       dateInnerStyle={dataTimeStyle}
     ><p>{this.findAuthor(this.props.autorName).biography[e].data}</p></TimelineItem>); 
   })
@@ -26,7 +27,7 @@ export default class BiographyTimeLine extends Component {
   render() {
     return (
       <>
-        <Timeline lineColor={'#ddd'}>
+        <Timeline lineColor={'#EDE8C9'}>
           {this.createTimeLineItem()}
         </Timeline>
       </>

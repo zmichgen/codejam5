@@ -5,6 +5,9 @@
         "main": "Главная",
         "search": "Поиск",
         "brand": "Белорусские писатели"
+      },
+      "author": {
+        "books": "Список произведений"
       }
     },
     "autors": {
@@ -614,6 +617,9 @@
         "main": "Галоуная",
         "search": "Пошук",
         "brand": "Беларускія пісьменнікі"
+      },
+      "author": {
+        "books": "Спіс твораў"
       }
     },
     "autors": {
@@ -1212,6 +1218,9 @@
         "main": "Main",
         "search": "Search",
         "brand": "Belorassian writers"
+      },
+      "author": {
+        "books": "List of works"
       }
     },
     "autors": {
