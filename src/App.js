@@ -8,17 +8,27 @@ import Russian from "./russia.jpg";
 import Belarus from "./belarus.jpg";
 import MainPage from "./screens/main/main";
 import AutorPage from "./screens/author/index";
-import SearchList from './screens/search/search-list';
+import SearchList from "./screens/search/search-list";
 
 const Search = (props, fun) => {
   return () => {
-    return <SearchList lang={props.lang} newName={props.name} selectAuthor={fun}/>
+    return (
+      <SearchList lang={props.lang} newName={props.name} selectAuthor={fun} />
+    );
   };
 };
 
 const Autor = props => {
   return () => {
-    return <AutorPage lang={props.lang} AuthorName={props.AuthorName} testName={props.name} localName={props.localName} localLang={props.localLang}/>;
+    return (
+      <AutorPage
+        lang={props.lang}
+        AuthorName={props.AuthorName}
+        testName={props.name}
+        localName={props.localName}
+        localLang={props.localLang}
+      />
+    );
   };
 };
 
@@ -28,18 +38,18 @@ const Main = props => {
   };
 };
 
-const randomIndex = (number) => {
+const randomIndex = number => {
   const date = new Date();
   const day = date.getDay() + 1;
-  return  day % number;
-}
+  return day % number;
+};
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
       lang: "ru",
-      newName: localStorage.getItem('name'),
+      newName: localStorage.getItem("name")
     };
   }
 
@@ -50,15 +60,19 @@ class App extends Component {
     }
   };
 
-  changeAuthorName = (name) => {
+  changeAuthorName = name => {
     this.setState({ newName: name });
-  }
+  };
 
   render() {
     const menuItems = _.values(Data[this.state.lang].interface.mainMenu);
     const authors = _.keys(Data[this.state.lang].autors);
-    const authorName = authors[randomIndex(authors.length)];    
-    const props = { lang: this.state.lang, AuthorName: authorName, name: this.state.newName};
+    const authorName = authors[randomIndex(authors.length)];
+    const props = {
+      lang: this.state.lang,
+      AuthorName: authorName,
+      name: this.state.newName
+    };
     const searchPage = Search(props, this.changeAuthorName);
     const autorPage = Autor(props);
     const mainPage = Main(props);
@@ -100,15 +114,9 @@ class App extends Component {
                 </li> */}
               </ul>
               <div className="switchLang" onClick={this.switchLanguage}>
-                <button>
-                  <img id="ru" width="30" src={Russian} alt="russian" />
-                </button>
-                <button>
-                  <img id="by" width="30" src={Belarus} alt="russian" />
-                </button>
-                <button>
-                  <img id="en" width="30" src={English} alt="russian" />
-                </button>
+                <img id="ru" width="30" src={Russian} alt="russian" />
+                <img id="by" width="30" src={Belarus} alt="belorussian" />
+                <img id="en" width="30" src={English} alt="english" />
               </div>
             </div>
           </nav>

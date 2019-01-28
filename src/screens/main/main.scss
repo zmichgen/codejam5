@@ -1,7 +1,7 @@
 .portal {
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: space-around;
   
 
   @media screen and (max-width: 640px){
