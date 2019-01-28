@@ -1,24 +1,24 @@
-import React from "react";
-import "./about.scss";
+import React from 'react';
+import './about.scss';
 
 const screenData = {
   ru: {
-    title: "Прикоснитесь к прекрасному",
-    str1: "На нашем портале Вы можете познакомится с писателями Беларуси",
-    str2: "Классики или современники, стихи или проза",
-    str3: "Сделай выбор..."
+    title: 'Прикоснитесь к прекрасному',
+    str1: 'На нашем портале Вы можете познакомится с писателями Беларуси',
+    str2: 'Классики или современники, стихи или проза',
+    str3: 'Сделай выбор...'
   },
   by: {
-    title: "Дакраніцеся да прыгожага",
-    str1: "На нашым партале Вы можаце пазнаёміцца з пісьменнікамі Беларусі",
-    str2: "Класікі ці сучаснікі, вершы ці проза",
-    str3: "Зрабі выбар"
+    title: 'Дакраніцеся да прыгожага',
+    str1: 'На нашым партале Вы можаце пазнаёміцца з пісьменнікамі Беларусі',
+    str2: 'Класікі ці сучаснікі, вершы ці проза',
+    str3: 'Зрабі выбар'
   },
   en: {
-    title: "Touch the beautiful",
-    str1: "On our portal you can get acquainted with the writers of Belarus",
-    str2: "Classics or contemporaries, poems or prose",
-    str3: "Make a choice"
+    title: 'Touch the beautiful',
+    str1: 'On our portal you can get acquainted with the writers of Belarus',
+    str2: 'Classics or contemporaries, poems or prose',
+    str3: 'Make a choice'
   }
 };
 

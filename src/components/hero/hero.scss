@@ -15,17 +15,20 @@
     display: block;
     max-width: 300px;
     margin: 0 auto;
-    border-radius: 50px;
+    border-radius: 15px;
     box-shadow: 2px 2px 20px gray;
     @media screen and (max-width: 640px) {
       min-width: 80%;
     }
   }
   .title {
-    font-family: "New", Arial, Helvetica, sans-serif;
     font-size: 1.2em;
     text-align: center;
     max-width: 300;
     margin: 0 auto;
+
+    h3 {
+      margin-top: 10px;
+    }
   }
 }

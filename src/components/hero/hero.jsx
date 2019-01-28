@@ -1,11 +1,6 @@
-import React from "react";
-import Data from "../../codejam5.json";
-import "./hero.scss";
-
-const getImage = async imageName => {
-  const imgSrc = await import(`../../images/portraits/${imageName}.jpg`);
-  return imgSrc.default;
-};
+import React from 'react';
+import Data from '../../data.json';
+import './hero.scss';
 
 class Hero extends React.Component {
   constructor(props) {
@@ -15,24 +10,12 @@ class Hero extends React.Component {
     this.data = Data[this.lang].autors[props.authorName];
     this.name = this.data.image;
   }
-  state = {
-    portret: {}
-  };
-
-  componentDidMount = () => {
-    getImage(this.name).then(data => {
-      this.setState({
-        portret: data
-      });
-    });
-  };
 
   render() {
-    const { portret } = this.state;
     return (
       <div className="hero">
         <div>
-          <img src={portret} alt="portret" />
+          <img src={process.env.PUBLIC_URL + this.name} alt="portret" />
         </div>
         <div className="title">
           <h3>{this.hero}</h3>
