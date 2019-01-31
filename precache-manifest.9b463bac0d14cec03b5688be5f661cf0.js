@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/codejam5/static/media/mdgh.092a527a.jpg"
   },
   {
-    "revision": "e29b7d175839be6c7231",
-    "url": "/codejam5/static/css/main.a03233d0.chunk.css"
+    "revision": "d304a9d8344de32241fd",
+    "url": "/codejam5/static/css/main.2bbc0676.chunk.css"
   },
   {
     "revision": "98641b00656a2e5f40c0ef2dd9fbbd84",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/codejam5/static/media/nefont.05be004b.ttf"
   },
   {
-    "revision": "e29b7d175839be6c7231",
-    "url": "/codejam5/static/js/main.e29b7d17.chunk.js"
-  },
-  {
-    "revision": "955bb514baf4d06ad595f9e725791acf",
-    "url": "/codejam5/static/media/zmichgen.955bb514.jpg"
+    "revision": "d304a9d8344de32241fd",
+    "url": "/codejam5/static/js/main.d304a9d8.chunk.js"
   },
   {
     "revision": "89a2695186b71e7e692ac9062f0fbdfd",
     "url": "/codejam5/static/media/gaddyya.89a26951.jpg"
+  },
+  {
+    "revision": "955bb514baf4d06ad595f9e725791acf",
+    "url": "/codejam5/static/media/zmichgen.955bb514.jpg"
   },
   {
     "revision": "c26d5d2a83c5ccacfe6487c4662852a0",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/codejam5/static/css/1.168a77ef.chunk.css"
   },
   {
-    "revision": "af42669f1173571f0040b209bb274dcd",
+    "revision": "0af172fe08c71e9ce36d57449c62121c",
     "url": "/codejam5/index.html"
   }
 ];
