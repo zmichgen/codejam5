@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
-import ImageGallery from 'react-image-gallery';
-import data from '../../data.json';
-import './gallery.css';
+import React, { Component } from "react";
+import ImageGallery from "react-image-gallery";
+import data from "../../data.json";
+import "./gallery.css";
 
 class Gallery extends Component {
   getImages() {
@@ -9,8 +9,7 @@ class Gallery extends Component {
       this.props.autorName
     ].gallery.map(item => {
       return {
-        original: process.env.PUBLIC_URL + item,
-        thumbnail: process.env.PUBLIC_URL + item
+        original: process.env.PUBLIC_URL + item
       };
     });
     return images;
@@ -18,7 +17,14 @@ class Gallery extends Component {
 
   render() {
     const images = this.getImages();
-    return <ImageGallery items={images} />;
+    return (
+      <ImageGallery
+        items={images}
+        showThumbnails={false}
+        showPlayButton={false}
+        showFullscreenButton={false}
+      />
+    );
   }
 }
 

@@ -142,7 +142,7 @@
         "name": "Владимир Короткевич",
         "image": "/media/korotkevich/portret.jpg",
         "years": "1930 - 1984",
-        "birthdayPlace": "Oрша",
+        "birthdayPlace": "Орша",
         "description": "Белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы",
         "youtube": "https://www.youtube.com/watch?v=TOBB80OpIRI",
         "about": "Влади́мир Семёнович Коротке́вич — белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы. Является одной из наиболее ярких фигур в белорусской литературе XX столетия. Стал первым белорусским писателем, обратившимся к жанру исторического детектива. Творчество Владимира Короткевича отличается романтической направленностью, высокой художественной культурой, патриотичным пафосом и гуманистическим звучанием. Писатель существенно обогатил белорусскую литературу в тематических и жанровых отношениях, наполнил её интеллектуальным и философским содержанием. Наиболее известны такие произведения автора, как повести «Дикая охота короля Стаха», «Седая легенда», романы «Колосья под серпом твоим», «Христос приземлился в Гродно», «Чёрный замок Ольшанский», эссе «Земля под белыми крыльями».",
@@ -150,13 +150,11 @@
           "/media/korotkevich/korotkevich-1.jpg",
           "/media/korotkevich/korotkevich-2.jpg",
           "/media/korotkevich/korotkevich-3.jpg",
-          "/media/korotkevich/korotkevich-4.jpg",
           "/media/korotkevich/korotkevich-5.jpg",
           "/media/korotkevich/korotkevich-6.jpg",
           "/media/korotkevich/korotkevich-7.jpg",
           "/media/korotkevich/korotkevich-8.jpg",
-          "/media/korotkevich/korotkevich-9.jpg",
-          "/media/korotkevich/korotkevich-10.jpg"
+          "/media/korotkevich/korotkevich-9.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -215,8 +213,7 @@
           "/media/baradulin/baradulin-3.jpg",
           "/media/baradulin/baradulin-4.jpg",
           "/media/baradulin/baradulin-5.jpg",
-          "/media/baradulin/baradulin-6.jpg",
-          "/media/baradulin/baradulin-7.jpg"
+          "/media/baradulin/baradulin-6.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -332,8 +329,7 @@
           "/media/tank/tank-3.jpg",
           "/media/tank/tank-4.jpg",
           "/media/tank/tank-5.jpg",
-          "/media/tank/tank-6.jpg",
-          "/media/tank/tank-7.jpg"
+          "/media/tank/tank-6.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -382,15 +378,14 @@
         "years": "1924-2003",
         "birthdayPlace": "Бычки",
         "description": "Василь Влади́мирович Быков — советский и белорусский писатель, общественный деятель, участник Великой Отечественной войны. Член Союза писателей СССР.",
-        "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
+        "youtube": "https://www.youtube.com/watch?v=VgIEoFsgMck&t=2s",
         "about": "Родился 19 июня 1924 года в деревне Бычки Ушачского района Витебской области в крестьянской семье. Окончил 8 классов школы в деревне Кубличи, затем учился на скульптурном отделении Витебского художественного училища (1939—1940), которое оставил из-за отмены стипендий, и в школе ФЗО (до мая 1941 года). Война застала его на Украине, где он участвовал в оборонных работах. Осенью 1943 года присвоено звание младшего лейтенанта. Участвовал в боях за Кривой Рог, Александрию, Знаменку. После демобилизации жил в Гродно (с 1947 года). Печатался с 1947 года, работал в мастерских, а также в редакции областной газеты «Гродненская правда» (до 1949 года). В период с 1949 по 1955 год снова служил в Советской армии, в 1955 году окончательно демобилизовался в звании майора. С 1955 по 1972 год вновь работал в «Гродненской правде». В 1978 году переехал в Минск. Избирался депутатом Верховного Совета Белорусской ССР в 1978—1989 годах. С конца 1997 года жил за границей в политической эмиграции. Умер 22 июня 2003 года в 20 часов 30 минут от злокачественной опухоли желудка в реанимационном отделении онкологического госпиталя в Боровлянах, под Минском.",
         "gallery": [
           "/media/bykov/bykov-1.jpg",
           "/media/bykov/bykov-2.jpg",
           "/media/bykov/bykov-3.jpg",
           "/media/bykov/bykov-4.jpg",
-          "/media/bykov/bykov-5.jpg",
-          "/media/bykov/bykov-6.jpg"
+          "/media/bykov/bykov-5.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -568,11 +563,7 @@
         "gallery": [
           "/media/bril/bril-1.jpg",
           "/media/bril/bril-2.jpg",
-          "/media/bril/bril-3.jpg",
-          "/media/bril/bril-4.jpg",
-          "/media/bril/bril-5.jpg",
-          "/media/bril/bril-6.jpg",
-          "/media/bril/bril-7.jpg"
+          "/media/bril/bril-3.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -742,7 +733,7 @@
         "name": "Уладзімір Караткевіч",
         "image": "/media/korotkevich/portret.jpg",
         "years": "1930 - 1984",
-        "birthdayPlace": "Oрша",
+        "birthdayPlace": "Орша",
         "description": "Уладзі́мір Сямё́навіч Каратке́віч беларускі паэт, празаік, драматург, публіцыст, перакладчык, сцэнарыст, класік беларускай літаратуры",
         "youtube": "https://www.youtube.com/watch?v=TOBB80OpIRI",
         "about": "Уладзі́мір Сямё́навіч Каратке́віч — беларускі паэт, празаік, драматург, публіцыст, перакладчык, сцэнарыст, класік беларускай літаратуры. Адна з найбольш яскравых постацей у беларускай літаратуры другой паловы XX ст.. Першы беларускі пісьменнік, які звярнуўся да жанру гістарычнага дэтэктыву. Творчасць Уладзіміра Караткевіча адрозніваецца рамантычнай скіраванасцю, высокай мастацкай культурай, патрыятычным пафасам і гуманістычным гучаннем. Пісьменнік істотна ўзбагаціў беларускую літаратуру ў тэматычных і жанравых адносінах, напоўніў яе інтэлектуальным і філасофскім зместам. Найбольш вядомыя такія творы аўтара, як аповесці «Дзікае паляванне караля Стаха», «Сівая легенда», раманы «Каласы пад сярпом тваім», «Хрыстос прызямліўся ў Гародні», «Чорны замак Альшанскі», нарыс «Зямля пад белымі крыламі».",
@@ -750,13 +741,11 @@
           "/media/korotkevich/korotkevich-1.jpg",
           "/media/korotkevich/korotkevich-2.jpg",
           "/media/korotkevich/korotkevich-3.jpg",
-          "/media/korotkevich/korotkevich-4.jpg",
           "/media/korotkevich/korotkevich-5.jpg",
           "/media/korotkevich/korotkevich-6.jpg",
           "/media/korotkevich/korotkevich-7.jpg",
           "/media/korotkevich/korotkevich-8.jpg",
-          "/media/korotkevich/korotkevich-9.jpg",
-          "/media/korotkevich/korotkevich-10.jpg"
+          "/media/korotkevich/korotkevich-9.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -815,8 +804,7 @@
           "/media/baradulin/baradulin-3.jpg",
           "/media/baradulin/baradulin-4.jpg",
           "/media/baradulin/baradulin-5.jpg",
-          "/media/baradulin/baradulin-6.jpg",
-          "/media/baradulin/baradulin-7.jpg"
+          "/media/baradulin/baradulin-6.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -932,8 +920,7 @@
           "/media/tank/tank-3.jpg",
           "/media/tank/tank-4.jpg",
           "/media/tank/tank-5.jpg",
-          "/media/tank/tank-6.jpg",
-          "/media/tank/tank-7.jpg"
+          "/media/tank/tank-6.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -982,15 +969,14 @@
         "years": "1924-2003",
         "birthdayPlace": "Бычкі",
         "description": "Васіль Уладзіміравіч Быкаў - беларускі і савецкі пісьменнік і грамадскі дзеяч, удзельнік Вялікай Айчыннай вайны, капітан.",
-        "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
+        "youtube": "https://www.youtube.com/watch?v=VgIEoFsgMck&t=2s",
         "about": "Нарадзіўся ў сялянскай сям'і. У 1939 скончыў 8 класаў Кубліцкай сярэдняй школы, паступіў на скульптурнае аддзяленне Віцебскага мастацкага вучылішча. Паступіў у Віцебскую школу ФЗН № 5, дзе вучыўся да мая 1941. Вайна заспела яго ва Украіне, дзе ён удзельнічаў у абаронных работах. Увосень 1943 года прысвоена званне малодшага лейтэнанта. Ваяваў на 2-м і 3-м Украінскіх франтах. У пачатку 1944 года тры месяцы знаходзіўся ў шпіталі. Пасля дэмабілізацыі В. Быкаў жыў у Гродне (з 1947), працаваў мастаком у гродзенскіх майстэрнях, у рэдакцыі абласной газеты «Гродзенская праўда» (1947—49). У 1949—55 зноў служыў у Савецкай Арміі. Канчаткова дэмабілізаваўшыся (маёр запаса), працаваў літаратурным супрацоўнікам, літаратурным кансультантам газеты «Гродзенская праўда» (1956—72). Член Саюза пісьменнікаў СССР з 1959. Выступаў як журналіст. У 1978-м пераехаў на сталае жыццё ў Мінск. 3 гэтага часу займаўся выключна творчай працай. Выбіраўся дэпутатам Вярхоўнага Савета БССР (1978—89). Народны дэпутат СССР (1989). У пачатку 1998 года Васіль Быкаў на запрашэнне Фінскага ПЭН-цэнтра вырашыў пажыць у Фінляндыі, куды і пераехаў разам з жонкай у чэрвені таго ж года. Памёр 22 чэрвеня 2003 года ў 20 гадзін 30 хвілін у рэанімацыйным аддзяленні анкалагічнага шпіталю ў Бараўлянах, пад Мінскам.",
         "gallery": [
           "/media/bykov/bykov-1.jpg",
           "/media/bykov/bykov-2.jpg",
           "/media/bykov/bykov-3.jpg",
           "/media/bykov/bykov-4.jpg",
-          "/media/bykov/bykov-5.jpg",
-          "/media/bykov/bykov-6.jpg"
+          "/media/bykov/bykov-5.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -1168,11 +1154,7 @@
         "gallery": [
           "/media/bril/bril-1.jpg",
           "/media/bril/bril-2.jpg",
-          "/media/bril/bril-3.jpg",
-          "/media/bril/bril-4.jpg",
-          "/media/bril/bril-5.jpg",
-          "/media/bril/bril-6.jpg",
-          "/media/bril/bril-7.jpg"
+          "/media/bril/bril-3.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -1352,13 +1334,11 @@
           "/media/korotkevich/korotkevich-1.jpg",
           "/media/korotkevich/korotkevich-2.jpg",
           "/media/korotkevich/korotkevich-3.jpg",
-          "/media/korotkevich/korotkevich-4.jpg",
           "/media/korotkevich/korotkevich-5.jpg",
           "/media/korotkevich/korotkevich-6.jpg",
           "/media/korotkevich/korotkevich-7.jpg",
           "/media/korotkevich/korotkevich-8.jpg",
-          "/media/korotkevich/korotkevich-9.jpg",
-          "/media/korotkevich/korotkevich-10.jpg"
+          "/media/korotkevich/korotkevich-9.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -1417,8 +1397,7 @@
           "/media/baradulin/baradulin-3.jpg",
           "/media/baradulin/baradulin-4.jpg",
           "/media/baradulin/baradulin-5.jpg",
-          "/media/baradulin/baradulin-6.jpg",
-          "/media/baradulin/baradulin-7.jpg"
+          "/media/baradulin/baradulin-6.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -1534,8 +1513,7 @@
           "/media/tank/tank-3.jpg",
           "/media/tank/tank-4.jpg",
           "/media/tank/tank-5.jpg",
-          "/media/tank/tank-6.jpg",
-          "/media/tank/tank-7.jpg"
+          "/media/tank/tank-6.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -1584,15 +1562,14 @@
         "years": "1924-2003",
         "birthdayPlace": "Bychki",
         "description": "Vasil Vladimirovich Bykov - Soviet and Belarusian writer, public figure, participant of the Great Patriotic War. Member of the Union of Writers of the USSR.",
-        "youtube": "https://www.youtube.com/watch?v=40Uhtifsk7s",
+        "youtube": "https://www.youtube.com/watch?v=VgIEoFsgMck&t=2s",
         "about": "Born on June 19, 1924 in the village of Bychki, Ushachsky District, Vitebsk Region, into a peasant family. He graduated from the 8th grade school in the village of Kublichi, then studied at the sculpture department of the Vitebsk Art School (1939-1940), which he left due to the cancellation of scholarships, and at the FZO school (until May 1941). The war found him in Ukraine, where he participated in defense works. In the autumn of 1943 he was promoted to junior lieutenant. He participated in the battles for Krivoy Rog, Alexandria, Znamenka. After demobilization he lived in Grodno (since 1947). It was printed since 1947, he worked in workshops, as well as in the editorial office of the regional newspaper “Grodno truth” (until 1949). In the period from 1949 to 1955 he served again in the Soviet army, in 1955, he was completely discharged as a major. From 1955 to 1972 he worked again in the “Grodno truth”. In 1978 he moved to Minsk. He was elected deputy of the Supreme Soviet of the Byelorussian SSR in 1978-1989. From the end of 1997 he lived abroad in political exile. He died on June 22, 2003 at 8.30 pm from a malignant stomach tumor in the intensive care unit of the oncology hospital in Borovlyany, near Minsk.",
         "gallery": [
           "/media/bykov/bykov-1.jpg",
           "/media/bykov/bykov-2.jpg",
           "/media/bykov/bykov-3.jpg",
           "/media/bykov/bykov-4.jpg",
-          "/media/bykov/bykov-5.jpg",
-          "/media/bykov/bykov-6.jpg"
+          "/media/bykov/bykov-5.jpg"
         ],
         "biography": {
           "firstLine": {
@@ -1770,11 +1747,7 @@
         "gallery": [
           "/media/bril/bril-1.jpg",
           "/media/bril/bril-2.jpg",
-          "/media/bril/bril-3.jpg",
-          "/media/bril/bril-4.jpg",
-          "/media/bril/bril-5.jpg",
-          "/media/bril/bril-6.jpg",
-          "/media/bril/bril-7.jpg"
+          "/media/bril/bril-3.jpg"
         ],
         "biography": {
           "firstLine": {

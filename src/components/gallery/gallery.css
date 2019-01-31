@@ -17,6 +17,7 @@
 }
 
 .image-gallery-slide img {
+  width: auto;
   height: 400px;
   margin: 0 auto;
 }
