@@ -18,7 +18,7 @@ class Hero extends React.Component {
           <img src={process.env.PUBLIC_URL + this.name} alt="portret" />
         </div>
         <div className="title">
-          <h3>{this.hero}</h3>
+          <h3>{this.data.name}</h3>
           <p>{this.data.years}</p>
           <p>{this.data.description}</p>
         </div>
