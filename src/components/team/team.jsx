@@ -2,6 +2,8 @@
 import React from 'react';
 import './team.scss';
 
+const dev = 'Frontend Developer';
+
 const devTeam = {
   ru: {
     title: 'Команда разработчиков',
@@ -9,7 +11,7 @@ const devTeam = {
     gaddyya: 'Роман Дань',
     zmichgen: 'Михаил Зырянов',
     zerovers: 'Дмитрий Кравцов',
-    renardby: 'Андрей Полещук'
+    renardby: 'Андрей Полещук',
   },
   by: {
     title: 'Каманда распрацоўнікаў',
@@ -17,7 +19,7 @@ const devTeam = {
     gaddyya: 'Раман Дань',
     zmichgen: 'Miхаiл Зыранау',
     zerovers: 'Дзмiтрый Краўцоў',
-    renardby: 'Андрэй Паляшчук'
+    renardby: 'Андрэй Паляшчук',
   },
   en: {
     title: 'Development team',
@@ -25,11 +27,11 @@ const devTeam = {
     gaddyya: 'Roman Dan',
     zmichgen: 'Mikhail Zyranau',
     zerovers: 'Dmitry Kravtsov',
-    renardby: 'Andrei Poleschuk'
-  }
+    renardby: 'Andrei Poleschuk',
+  },
 };
 
-const Team = props => {
+const Team = (props) => {
   return (
     <section>
       <div className="developers-title">
@@ -40,7 +42,7 @@ const Team = props => {
           <div className="teammate-contact noselect">
             <div className="teammate-foto" />
             <span>{devTeam[props.lang].mdgh}</span>
-            <span>Junior Javascript Developer</span>
+            <span>{dev}</span>
             <div>
               <a href="https://github.com/mdgh/" target="_blank">
                 <i className="linked-icon">&#xe802;</i>
@@ -58,7 +60,7 @@ const Team = props => {
           <div className="teammate-contact noselect">
             <div className="teammate-foto" />
             <span>{devTeam[props.lang].gaddyya}</span>
-            <span>Junior Javascript Developer</span>
+            <span>{dev}</span>
             <div>
               <a href="https://github.com/gaddyya/" target="_blank">
                 <i className="linked-icon">&#xe802;</i>
@@ -76,7 +78,7 @@ const Team = props => {
           <div className="teammate-contact noselect">
             <div className="teammate-foto" />
             <span>{devTeam[props.lang].zmichgen}</span>
-            <span>Junior Javascript Developer</span>
+            <span>{dev}</span>
             <div>
               <a href="https://github.com/zmichgen/" target="_blank">
                 <i className="linked-icon">&#xe802;</i>
@@ -94,7 +96,7 @@ const Team = props => {
           <div className="teammate-contact noselect">
             <div className="teammate-foto" />
             <span>{devTeam[props.lang].zerovers}</span>
-            <span>Junior Javascript Developer</span>
+            <span>{dev}</span>
             <div>
               <a href="https://github.com/zerovers/" target="_blank">
                 <i className="linked-icon">&#xe802;</i>
@@ -112,7 +114,7 @@ const Team = props => {
           <div className="teammate-contact noselect">
             <div className="teammate-foto" />
             <span>{devTeam[props.lang].renardby} </span>
-            <span>Junior Javascript Developer</span>
+            <span>{dev}</span>
             <div>
               <a href="https://github.com/RenardBY/" target="_blank">
                 <i className="linked-icon">&#xe802;</i>
